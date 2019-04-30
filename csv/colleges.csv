@@ -1,0 +1,944 @@
+school_name,city_name,state_name,cost,grad_rate,salary,website
+Samford University,Birmingham,AL,"$29,026",73%,"$49,900",http://www.samford.edu
+Auburn University,Auburn,AL,"$21,984",74%,"$48,800",http://www.auburn.edu
+Birmingham Southern College,Birmingham,AL,"$23,227",64%,"$46,700",http://www.bsc.edu/
+University of Alabama in Huntsville,Huntsville,AL,"$19,423",49%,"$46,700",http://www.uah.edu
+Spring Hill College,Mobile,AL,"$5,772",53%,"$45,100",http://www.shc.edu
+The University of Alabama,Tuscaloosa,AL,"$21,676",68%,"$44,500",http://www.ua.edu/
+Marion Military Institute,Marion,AL,"$11,051",29%,"$42,700",http://www.marionmilitary.edu
+University of Alabama at Birmingham,Birmingham,AL,"$16,475",54%,"$41,200",http://www.uab.edu
+Huntingdon College,Montgomery,AL,"$20,359",40%,"$39,900",http://www.huntingdon.edu
+University of South Alabama,Mobile,AL,"$14,755",37%,"$37,800",http://www.southalabama.edu
+Herzing University-Birmingham,Birmingham,AL,"$21,154",31%,"$37,800",http://www.herzing.edu/
+University of North Alabama,Florence,AL,"$11,127",40%,"$37,800",http://www.una.edu
+University of West Alabama,Livingston,AL,"$13,227",30%,"$37,400",http://www.uwa.edu
+Troy University,Troy,AL,"$11,479",35%,"$37,000",http://www.troy.edu
+Jacksonville State University,Jacksonville,AL,"$17,664",33%,"$35,800",http://www.jsu.edu/
+Tuskegee University,Tuskegee,AL,"$32,560",46%,"$35,500",http://www.tuskegee.edu
+Faulkner University,Montgomery,AL,"$18,298",27%,"$35,400",http://www.faulkner.edu
+University of Mobile,Mobile,AL,"$21,533",46%,"$35,200",http://www.umobile.edu
+University of Montevallo,Montevallo,AL,"$18,000",47%,"$34,200",http://www.montevallo.edu
+South University-Montgomery,Montgomery,AL,"$20,830",7%,"$33,400","http://www.southuniversity.edu/montgomery#location=Montgomery,%20AL"
+University of Alaska Anchorage,Anchorage,AK,"$12,680",24%,"$45,400",http://www.uaa.alaska.edu
+Alaska Pacific University,Anchorage,AK,"$18,413",50%,"$40,200",http://www.alaskapacific.edu
+University of Alaska Fairbanks,Fairbanks,AK,"$10,248",27%,"$38,700",http://www.uaf.edu
+University of Alaska Southeast,Juneau,AK,"$9,453",20%,"$36,000",http://www.uas.alaska.edu
+Alaska Career College,Anchorage,AK,"$17,098",71%,"$31,200",http://www.alaskacareercollege.edu
+Embry-Riddle Aeronautical University-Prescott,Prescott,AZ,"$31,825",61%,"$66,200",http://prescott.erau.edu/
+Grand Canyon University,Phoenix,AZ,"$20,923",41%,"$52,700",http://www.gcu.edu
+Arizona State University-Tempe,Tempe,AZ,"$11,572",66%,"$47,700",http://www.asu.edu/
+Arizona State University-Polytechnic,Mesa,AZ,"$11,755",60%,"$47,700",http://www.asu.edu/
+Arizona State University-Downtown Phoenix,Phoenix,AZ,"$11,581",66%,"$47,700",http://www.asu.edu/
+Arizona State University-West,Glendale,AZ,"$7,619",68%,"$47,700",http://www.asu.edu/
+University of Arizona,Tucson,AZ,"$16,150",60%,"$47,300",http://www.arizona.edu
+University of Phoenix-Arizona,Tempe,AZ,"$18,007",17%,"$47,100",http://www.phoenix.edu
+University of Advancing Technology,Tempe,AZ,"$28,445",22%,"$46,400",http://www.uat.edu
+Universal Technical Institute of Arizona Inc,Avondale,AZ,"$20,016",59%,"$45,200",http://www.uti.edu
+DeVry University-Arizona,Phoenix,AZ,"$29,388",28%,"$44,100",https://www.devry.edu
+Refrigeration School Inc,Phoenix,AZ,"$22,757",72%,"$41,500",https://www.refrigerationschool.com
+Argosy University-Phoenix Online Division,Phoenix,AZ,"$26,459",5%,"$41,400",http://www.argosy.edu/locations/online
+Northern Arizona University,Flagstaff,AZ,"$14,664",53%,"$40,100",https://nau.edu/
+Rio Salado College,Tempe,AZ,"$7,067",4%,"$39,500",http://www.rio.maricopa.edu
+Chandler-Gilbert Community College,Chandler,AZ,"$7,981",23%,"$38,600",http://www.cgc.maricopa.edu
+Mesa Community College,Mesa,AZ,"$7,497",14%,"$36,000",http://www.mesacc.edu
+Scottsdale Community College,Scottsdale,AZ,"$7,861",21%,"$35,600",http://www.scottsdalecc.edu
+Paradise Valley Community College,Phoenix,AZ,"$7,525",21%,"$35,600",http://www.pvc.maricopa.edu
+Western International University,Tempe,AZ,"$14,975",8%,"$35,000",http://www.west.edu
+John Brown University,Siloam Springs,AR,"$18,777",63%,"$45,800",http://www.jbu.edu
+University of Arkansas,Fayetteville,AR,"$15,648",64%,"$44,900",http://www.uark.edu
+Ouachita Baptist University,Arkadelphia,AR,"$20,396",68%,"$41,200",http://www.obu.edu
+Harding University,Searcy,AR,"$17,803",64%,"$40,900",http://www.harding.edu
+Hendrix College,Conway,AR,"$21,779",69%,"$39,700",http://www.hendrix.edu
+Lyon College,Batesville,AR,"$10,434",39%,"$38,600",http://www.lyon.edu
+University of Central Arkansas,Conway,AR,"$13,231",43%,"$38,300",http://www.uca.edu
+Henderson State University,Arkadelphia,AR,"$10,575",34%,"$35,700",http://www.hsu.edu
+Southern Arkansas University Main Campus,Magnolia,AR,"$11,452",35%,"$35,700",https://www.saumag.edu
+Central Baptist College,Conway,AR,"$14,512",29%,"$35,300",http://www.cbc.edu
+University of Arkansas at Little Rock,Little Rock,AR,"$13,357",30%,"$34,900",http://ualr.edu/www/
+Arkansas Tech University,Russellville,AR,"$11,614",40%,"$34,100",http://www.atu.edu
+University of the Ozarks,Clarksville,AR,"$16,344",42%,"$33,900",https://www.ozarks.edu
+Williams Baptist College,Walnut Ridge,AR,"$15,882",38%,"$33,100",http://www.wbcoll.edu
+NorthWest Arkansas Community College,Bentonville,AR,"$6,431",16%,"$32,800",http://www.nwacc.edu
+Arkansas State University-Mountain Home,Mountain Home,AR,"$8,870",48%,"$32,200",http://www.asumh.edu
+Arkansas State University-Main Campus,Jonesboro,AR,"$12,418",43%,"$32,200",http://www.astate.edu/
+University of Arkansas at Monticello,Monticello,AR,"$10,154",26%,"$31,500",http://www.uamont.edu/
+University of Arkansas-Fort Smith,Fort Smith,AR,"$8,568",24%,"$31,000",http://uafs.edu/
+Arkansas State University-Beebe,Beebe,AR,"$6,610",33%,"$29,400",http://www.asub.edu
+Stanford University,Stanford,CA,"$14,155",94%,"$94,000",http://www.stanford.edu/
+Harvey Mudd College,Claremont,CA,"$30,994",93%,"$88,800",https://www.hmc.edu
+California Institute of Technology,Pasadena,CA,"$24,702",92%,"$85,900",http://www.caltech.edu
+California State University Maritime Academy,Vallejo,CA,"$16,192",60%,"$82,900",https://www.csum.edu
+University of Southern California,Los Angeles,CA,"$29,977",92%,"$74,000",http://www.usc.edu/
+Claremont McKenna College,Claremont,CA,"$29,961",92%,"$72,900",http://www.cmc.edu
+Santa Clara University,Santa Clara,CA,"$36,820",87%,"$72,600",http://www.scu.edu
+University of the Pacific,Stockton,CA,"$30,829",67%,"$71,700",http://www.pacific.edu
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,"$18,845",78%,"$66,900",http://calpoly.edu
+Pepperdine University,Malibu,CA,"$34,808",85%,"$65,500",http://www.pepperdine.edu/
+University of California-Berkeley,Berkeley,CA,"$14,468",92%,"$64,700",http://www.berkeley.edu
+University of San Francisco,San Francisco,CA,"$31,254",72%,"$62,300",https://www.usfca.edu
+Loyola Marymount University,Los Angeles,CA,"$38,244",81%,"$61,300",http://www.lmu.edu
+University of California-Los Angeles,Los Angeles,CA,"$13,572",91%,"$60,700",http://www.ucla.edu/
+University of San Diego,San Diego,CA,"$33,821",79%,"$60,000",http://www.sandiego.edu
+University of California-San Diego,La Jolla,CA,"$14,775",87%,"$59,900",http://www.ucsd.edu
+National University,La Jolla,CA,"$22,652",36%,"$59,400",http://www.nu.edu
+University of California-Irvine,Irvine,CA,"$13,712",88%,"$58,400",http://www.uci.edu/
+University of California-Davis,Davis,CA,"$15,309",85%,"$58,200",http://www.ucdavis.edu
+Pomona College,Claremont,CA,"$12,873",96%,"$58,100",http://www.pomona.edu
+Colorado School of Mines,Golden,CO,"$27,013",77%,"$84,900",http://www.mines.edu
+University of Denver,Denver,CO,"$29,453",78%,"$56,500",http://www.du.edu
+University of Colorado Denver/Anschutz Medical Campus,Denver,CO,"$14,816",47%,"$56,400",http://www.ucdenver.edu/
+Regis University,Denver,CO,"$24,204",70%,"$56,400",http://www.regis.edu/
+University of Colorado Boulder,Boulder,CO,"$23,127",71%,"$50,800",http://www.colorado.edu
+Colorado State University-Fort Collins,Fort Collins,CO,"$18,318",67%,"$47,100",http://www.colostate.edu
+University of Phoenix-Colorado,Lone Tree,CO,"$17,695",18%,"$47,100",http://www.phoenix.edu
+Spartan College of Aeronautics and Technology,Broomfield,CO,"$21,268",48%,"$46,300",http://www.spartan.edu
+Colorado College,Colorado Springs,CO,"$23,394",87%,"$45,400",http://www.coloradocollege.edu
+DeVry University-Colorado,Westminster,CO,"$28,699",16%,"$44,100",https://www.devry.edu
+University of Colorado Colorado Springs,Colorado Springs,CO,"$16,029",45%,"$43,900",https://www.uccs.edu
+Colorado Technical University-Colorado Springs,Colorado Springs,CO,"$20,066",20%,"$42,200",http://www.coloradotech.edu/Colorado-Springs
+University of Northern Colorado,Greeley,CO,"$19,387",48%,"$42,000",http://www.unco.edu
+Metropolitan State University of Denver,Denver,CO,"$13,270",26%,"$40,200",http://www.msudenver.edu/
+Colorado Christian University,Lakewood,CO,"$23,849",51%,"$39,300",http://WWW.CCU.EDU
+Western State Colorado University,Gunnison,CO,"$16,028",44%,"$39,000",http://www.western.edu
+Johnson & Wales University-Denver,Denver,CO,"$23,701",58%,"$38,800",http://www.jwu.edu/campuses/denver/index.html
+Colorado Northwestern Community College,Rangely,CO,"$12,405",29%,"$38,400",http://www.cncc.edu
+Arapahoe Community College,Littleton,CO,"$8,850",19%,"$38,100",http://www.arapahoe.edu
+Colorado State University-Pueblo,Pueblo,CO,"$14,068",33%,"$37,500",https://www.csupueblo.edu
+Yale University,New Haven,CT,"$19,507",97%,"$83,200",http://www.yale.edu
+Fairfield University,Fairfield,CT,"$36,841",82%,"$72,100",http://fairfield.edu
+Trinity College,Hartford,CT,"$30,530",85%,"$66,100",http://www.trincoll.edu
+Quinnipiac University,Hamden,CT,"$37,626",77%,"$63,300",http://www.qu.edu
+University of Connecticut-Waterbury Campus,Waterbury,CT,"$8,600",58%,"$58,400",http://uconn.edu/
+University of Connecticut-Avery Point,Groton,CT,"$10,134",54%,"$58,400",http://uconn.edu/
+University of Connecticut-Stamford,Stamford,CT,"$8,383",58%,"$58,400",http://uconn.edu/
+University of Connecticut,Storrs,CT,"$21,223",83%,"$58,400",http://uconn.edu/
+Sacred Heart University,Fairfield,CT,"$38,951",62%,"$56,000",http://www.sacredheart.edu
+Connecticut College,New London,CT,"$30,795",84%,"$54,900",http://www.conncoll.edu
+Wesleyan University,Middletown,CT,"$24,626",93%,"$54,700",http://www.wesleyan.edu
+University of Saint Joseph,West Hartford,CT,"$29,655",60%,"$52,800",http://www.usj.edu
+University of New Haven,West Haven,CT,"$30,976",55%,"$52,100",http://www.newhaven.edu
+Albertus Magnus College,New Haven,CT,"$26,159",57%,"$51,200",http://www.albertus.edu
+Central Connecticut State University,New Britain,CT,"$16,576",55%,"$47,900",http://www.ccsu.edu
+University of Hartford,West Hartford,CT,"$29,611",57%,"$47,800",http://www.hartford.edu
+Eastern Connecticut State University,Willimantic,CT,"$17,542",55%,"$46,400",http://www.easternct.edu/
+Southern Connecticut State University,New Haven,CT,"$16,931",52%,"$45,300",http://www.southernct.edu
+Western Connecticut State University,Danbury,CT,"$18,237",48%,"$45,200",http://www.wcsu.edu
+University of Bridgeport,Bridgeport,CT,"$24,272",31%,"$43,100",http://www.bridgeport.edu
+University of Delaware,Newark,DE,"$16,736",80%,"$57,000",http://www.udel.edu/
+Goldey-Beacom College,Wilmington,DE,"$15,021",62%,"$44,500",http://www.gbc.edu
+Wesley College,Dover,DE,"$23,160",22%,"$42,900",http://www.wesley.edu
+Wilmington University,New Castle,DE,"$15,174",28%,"$42,500",http://www.wilmu.edu
+Delaware State University,Dover,DE,"$17,956",42%,"$35,800",http://www.desu.edu
+Delaware Technical Community College-Terry,Dover,DE,"$7,381",13%,"$31,300",https://www.dtcc.edu/our-campuses/dover
+Georgetown University,Washington,DC,"$29,283",94%,"$93,500",http://www.georgetown.edu
+George Washington University,Washington,DC,"$35,282",83%,"$69,600",http://www.gwu.edu
+American University,Washington,DC,"$35,325",81%,"$61,000",http://WWW.AMERICAN.EDU
+Catholic University of America,Washington,DC,"$34,542",70%,"$56,800",https://www.catholic.edu
+Howard University,Washington,DC,"$24,156",61%,"$49,200",http://www.howard.edu
+University of the Potomac-Washington DC Campus,Washington,DC,"$21,390",33%,"$47,600",http://www.potomac.edu
+Strayer University-Global Region,Washington,DC,"$24,717",12%,"$45,900",http://www.strayer.edu
+Strayer University-District of Columbia,Washington,DC,"$25,169",24%,"$45,900",http://www.strayer.edu/district-columbia/washington
+Trinity Washington University,Washington,DC,"$16,113",41%,"$38,800",http://www.trinitydc.edu
+University of the District of Columbia,Washington,DC,"$15,532",14%,"$35,200",http://www.udc.edu
+Gallaudet University,Washington,DC,"$19,384",45%,"$31,000",http://www.gallaudet.edu
+Embry-Riddle Aeronautical University-Worldwide,Daytona Beach,FL,"$19,270",26%,"$66,200",http://worldwide.erau.edu/
+Embry-Riddle Aeronautical University-Daytona Beach,Daytona Beach,FL,"$30,939",55%,"$66,200",http://daytonabeach.erau.edu/
+University of Miami,Coral Gables,FL,"$30,136",82%,"$60,100",http://www.miami.edu/
+Florida Institute of Technology,Melbourne,FL,"$29,128",58%,"$56,600",http://www.fit.edu
+Adventist University of Health Sciences,Orlando,FL,"$18,345",22%,"$56,000",http://www.adu.edu
+University of Florida,Gainesville,FL,"$12,159",87%,"$56,000",http://www.ufl.edu/
+Jacksonville University,Jacksonville,FL,"$30,113",41%,"$50,500",http://www.ju.edu/index.php
+St Thomas University,Miami Gardens,FL,"$17,019",43%,"$49,400",http://www.stu.edu
+The University of Tampa,Tampa,FL,"$28,888",57%,"$48,600",http://www.ut.edu
+University of Phoenix-Florida,Orlando,FL,"$18,249",17%,"$47,100",http://www.phoenix.edu
+Florida State University,Tallahassee,FL,"$14,985",80%,"$46,400",http://www.fsu.edu
+Florida International University,Miami,FL,"$13,398",57%,"$46,300",http://www.fiu.edu
+Strayer University-Florida,Tampa,FL,"$24,905",37%,"$45,900",http://www.strayer.edu/florida/tampa-westshore
+Barry University,Miami,FL,"$20,198",32%,"$45,800",http://www.barry.edu
+Rollins College,Winter Park,FL,"$31,866",71%,"$45,700",http://www.rollins.edu
+University of Central Florida,Orlando,FL,"$15,409",70%,"$45,400",http://www.ucf.edu/
+Nova Southeastern University,Fort Lauderdale,FL,"$24,663",47%,"$45,300",http://www.nova.edu
+DeVry University-Florida,Miramar,FL,"$31,651",29%,"$44,100",https://www.devry.edu
+Saint Leo University,Saint Leo,FL,"$20,389",43%,"$43,800",http://www.saintleo.edu
+University of South Florida-Main Campus,Tampa,FL,"$11,249",68%,"$43,500",http://www.usf.edu
+Georgia Institute of Technology-Main Campus,Atlanta,GA,"$11,639",86%,"$79,100",http://www.gatech.edu
+Emory University,Atlanta,GA,"$25,572",90%,"$66,000",http://www.emory.edu
+Augusta University,Augusta,GA,"$13,467",28%,"$62,300",http://www.augusta.edu
+University of Georgia,Athens,GA,"$13,822",85%,"$50,500",http://www.uga.edu
+Mercer University,Macon,GA,"$20,704",64%,"$48,200",http://www.mercer.edu
+University of Phoenix-Georgia,Sandy Springs,GA,"$18,340",14%,"$47,100",http://www.phoenix.edu
+Spelman College,Atlanta,GA,"$36,362",76%,"$47,000",http://www.spelman.edu
+Strayer University-Georgia,Atlanta,GA,"$25,995",22%,"$45,900",http://www.strayer.edu/georgia/chamblee
+DeVry University-Georgia,Decatur,GA,"$27,536",22%,"$44,100",https://www.devry.edu
+Georgia State University,Atlanta,GA,"$14,773",53%,"$43,300",http://www.gsu.edu
+Shorter University,Rome,GA,"$18,019",41%,"$43,200",http://su.shorter.edu
+Oglethorpe University,Atlanta,GA,"$20,165",50%,"$42,100",http://www.oglethorpe.edu
+Brenau University,Gainesville,GA,"$18,014",46%,"$42,000",http://www.brenau.edu
+Georgia Southern University,Statesboro,GA,"$16,480",51%,"$41,900",http://www.georgiasouthern.edu
+University of North Georgia,Dahlonega,GA,"$9,362",26%,"$41,900",http://www.ung.edu
+Morehouse College,Atlanta,GA,"$33,184",51%,"$41,800",http://www.morehouse.edu
+Covenant College,Lookout Mountain,GA,"$22,721",66%,"$41,200",http://www.covenant.edu
+Piedmont College,Demorest,GA,"$16,438",47%,"$40,600",http://www.piedmont.edu
+Georgia College & State University,Milledgeville,GA,"$19,370",60%,"$40,500",http://www.gcsu.edu/
+Berry College,Mount Berry,GA,"$23,058",65%,"$40,000",http://www.berry.edu
+Hawaii Pacific University,Honolulu,HI,"$27,750",45%,"$49,900",https://www.hpu.edu/
+University of Phoenix-Hawaii,Honolulu,HI,"$17,530",24%,"$47,100",http://www.phoenix.edu
+University of Hawaii at Manoa,Honolulu,HI,"$13,705",58%,"$45,800",http://www.manoa.hawaii.edu
+Brigham Young University-Hawaii,Laie,HI,"$11,612",53%,"$42,200",http://www.byuh.edu/
+Kauai Community College,Lihue,HI,"$7,132",22%,"$39,000",http://www.kauai.hawaii.edu
+University of Hawaii-West Oahu,Kapolei,HI,"$8,728",23%,"$38,600",http://www.uhwo.hawaii.edu
+Chaminade University of Honolulu,Honolulu,HI,"$18,161",52%,"$38,400",http://www.chaminade.edu
+University of Hawaii at Hilo,Hilo,HI,"$11,912",37%,"$37,900",http://www.hilo.hawaii.edu
+Kapiolani Community College,Honolulu,HI,"$5,779",17%,"$37,200",https://www.kapiolani.hawaii.edu
+Honolulu Community College,Honolulu,HI,"$5,958",17%,"$35,700",http://www.honolulu.hawaii.edu
+Leeward Community College,Pearl City,HI,"$3,781",16%,"$33,200",http://www.leeward.hawaii.edu
+University of Hawaii Maui College,Kahului,HI,"$8,772",13%,"$29,900",http://maui.hawaii.edu
+Windward Community College,Kaneohe,HI,"$8,501",16%,"$29,600",https://www.windward.hawaii.edu
+Pacific Rim Christian University,Honolulu,HI,"$16,754",43%,"$29,500",http://pacrim.edu
+Remington College-Honolulu Campus,Honolulu,HI,"$20,551",54%,"$26,800",http://www.remingtoncollege.edu/honolulu-hawaii-colleges-career-schools
+Hawaii Community College,Hilo,HI,"$8,690",21%,"$26,600",http://www.hawaii.hawaii.edu
+Brigham Young University-Idaho,Rexburg,ID,"$8,518",59%,"$42,700",http://www.byui.edu
+University of Idaho,Moscow,ID,"$14,191",57%,"$41,900",http://www.uidaho.edu
+The College of Idaho,Caldwell,ID,"$19,686",62%,"$40,000",http://www.collegeofidaho.edu
+Northwest Nazarene University,Nampa,ID,"$18,203",49%,"$39,600",http://www.nnu.edu
+Boise State University,Boise,ID,"$14,205",39%,"$37,100",http://www.boisestate.edu
+Idaho State University,Pocatello,ID,"$16,481",30%,"$35,700",http://www.isu.edu/
+Lewis-Clark State College,Lewiston,ID,"$11,027",30%,"$34,600",http://www.lcsc.edu
+North Idaho College,Coeur d'Alene,ID,"$7,116",23%,"$31,000",http://www.nic.edu/
+Boise Bible College,Boise,ID,"$18,198",51%,"$29,400",http://www.boisebible.edu
+College of Southern Idaho,Twin Falls,ID,"$6,543",20%,"$29,300",http://www.csi.edu
+Stevens-Henager College,Boise,ID,"$24,120",41%,"$28,800",http://www.stevenshenager.edu/
+Carrington College-Boise,Boise,ID,"$27,140",51%,"$27,400",http://www.carrington.edu
+College of Eastern Idaho,Idaho Falls,ID,"$13,242",57%,"$26,200",http://www.eitc.edu
+Illinois Institute of Technology,Chicago,IL,"$21,803",72%,"$69,100",http://web.iit.edu/
+Northwestern University,Evanston,IL,"$26,423",93%,"$69,000",http://www.northwestern.edu
+University of Chicago,Chicago,IL,"$19,510",93%,"$68,100",http://WWW.UCHICAGO.EDU
+University of Illinois at Urbana-Champaign,Champaign,IL,"$18,243",85%,"$61,500",http://www.illinois.edu/
+Illinois Wesleyan University,Bloomington,IL,"$27,647",82%,"$59,100",http://www.iwu.edu
+University of Illinois at Chicago,Chicago,IL,"$13,562",59%,"$54,300",http://www.uic.edu
+Loyola University Chicago,Chicago,IL,"$33,764",74%,"$54,100",http://www.luc.edu
+Bradley University,Peoria,IL,"$26,407",74%,"$53,600",http://www.bradley.edu
+DePaul University,Chicago,IL,"$29,752",73%,"$53,300",https://www.depaul.edu
+University of St Francis,Joliet,IL,"$17,854",64%,"$53,100",http://www.stfrancis.edu
+Augustana College,Rock Island,IL,"$23,517",76%,"$52,000",http://www.augustana.edu
+Morrison Institute of Technology,Morrison,IL,"$18,143",73%,"$51,400",http://www.morrisontech.edu
+Lake Forest College,Lake Forest,IL,"$23,121",71%,"$50,900",http://www.lakeforest.edu
+Benedictine University,Lisle,IL,"$20,508",52%,"$49,000",http://www.ben.edu
+Lewis University,Romeoville,IL,"$20,117",64%,"$48,800",http://www.lewisu.edu
+Wheaton College,Wheaton,IL,"$25,101",90%,"$48,400",http://www.wheaton.edu
+Elmhurst College,Elmhurst,IL,"$18,349",68%,"$48,300",http://www.elmhurst.edu
+Saint Xavier University,Chicago,IL,"$15,110",49%,"$48,200",http://WWW.SXU.EDU
+North Central College,Naperville,IL,"$23,153",68%,"$47,800",http://northcentralcollege.edu
+University of Phoenix-Illinois,Schaumburg,IL,"$18,146",8%,"$47,100",http://www.phoenix.edu
+Rose-Hulman Institute of Technology,Terre Haute,IN,"$37,725",80%,"$80,900",http://www.rose-hulman.edu
+University of Notre Dame,Notre Dame,IN,"$29,313",96%,"$78,400",http://www.nd.edu
+Butler University,Indianapolis,IN,"$31,211",75%,"$56,600",http://www.butler.edu
+Wabash College,Crawfordsville,IN,"$21,644",73%,"$56,300",http://www.wabash.edu
+Purdue University-Main Campus,West Lafayette,IN,"$13,545",75%,"$55,100",http://www.purdue.edu
+DePauw University,Greencastle,IN,"$22,066",83%,"$54,000",http://www.depauw.edu
+Indiana Wesleyan University-Marion,Marion,IN,"$18,773",62%,"$49,900",https://www.indwes.edu
+Valparaiso University,Valparaiso,IN,"$20,871",66%,"$48,500",http://www.valpo.edu
+Indiana University-Bloomington,Bloomington,IN,"$14,303",77%,"$47,700",http://www.iub.edu
+Hanover College,Hanover,IN,"$21,886",69%,"$46,400",http://www.hanover.edu
+Saint Mary's College,Notre Dame,IN,"$23,016",78%,"$46,200",http://www.saintmarys.edu
+Franklin College,Franklin,IN,"$21,098",63%,"$44,100",http://www.franklincollege.edu
+DeVry University-Indiana,Merrillville,IN,"$30,382",16%,"$44,100",https://www.devry.edu
+Trine University,Angola,IN,"$25,371",56%,"$43,300",http://www.trine.edu
+Marian University,Indianapolis,IN,"$20,575",56%,"$43,300",http://www.marian.edu
+Indiana Institute of Technology,Fort Wayne,IN,"$25,184",32%,"$42,700",http://www.indianatech.edu
+Indiana University-Purdue University-Indianapolis,Indianapolis,IN,"$12,417",45%,"$42,500",http://www.iupui.edu
+Calumet College of Saint Joseph,Whiting,IN,"$12,207",28%,"$42,000",http://www.ccsj.edu
+University of Evansville,Evansville,IN,"$21,336",69%,"$41,800",http://www.evansville.edu/
+Ball State University,Muncie,IN,"$15,521",59%,"$41,100",http://www.bsu.edu
+Drake University,Des Moines,IA,"$27,347",77%,"$58,300",http://www.drake.edu
+University of Iowa,Iowa City,IA,"$14,192",72%,"$51,900",http://www.uiowa.edu
+Iowa State University,Ames,IA,"$13,947",73%,"$50,700",http://www.iastate.edu
+Grinnell College,Grinnell,IA,"$24,136",86%,"$49,100",http://www.grinnell.edu
+Simpson College,Indianola,IA,"$22,964",65%,"$47,500",http://www.simpson.edu
+Luther College,Decorah,IA,"$24,612",78%,"$47,400",http://www.luther.edu
+Saint Ambrose University,Davenport,IA,"$23,766",63%,"$47,300",http://www.sau.edu
+Mercy College of Health Sciences,Des Moines,IA,"$22,084",43%,"$47,000",http://www.mchs.edu
+Coe College,Cedar Rapids,IA,"$20,896",67%,"$46,200",http://www.coe.edu
+Wartburg College,Waverly,IA,"$22,599",69%,"$45,400",http://www.wartburg.edu
+Mount Mercy University,Cedar Rapids,IA,"$19,894",62%,"$45,300",http://www.mtmercy.edu
+Central College,Pella,IA,"$21,233",66%,"$44,700",http://www.central.edu
+University of Northern Iowa,Cedar Falls,IA,"$15,666",66%,"$44,600",http://www.uni.edu
+Loras College,Dubuque,IA,"$17,540",70%,"$44,600",http://www.loras.edu
+Morningside College,Sioux City,IA,"$21,738",54%,"$43,700",https://www.morningside.edu
+Grand View University,Des Moines,IA,"$19,132",48%,"$43,200",http://www.grandview.edu
+Northwest Iowa Community College,Sheldon,IA,"$10,538",57%,"$43,100",http://www.nwicc.edu
+Cornell College,Mount Vernon,IA,"$26,617",68%,"$43,000",http://www.cornellcollege.edu
+Upper Iowa University,Fayette,IA,"$22,405",43%,"$42,900",https://www.uiu.edu
+William Penn University,Oskaloosa,IA,"$20,755",33%,"$42,100",http://www.wmpenn.edu
+Baker University,Baldwin City,KS,"$21,224",58%,"$51,300",https://www.bakeru.edu
+University of Kansas,Lawrence,KS,"$18,234",62%,"$48,800",http://www.ku.edu
+Southwestern College,Winfield,KS,"$22,361",40%,"$46,400",http://www.sckans.edu
+Kansas State University,Manhattan,KS,"$17,023",62%,"$45,600",http://www.k-state.edu
+Newman University,Wichita,KS,"$14,347",50%,"$44,000",http://www.newmanu.edu
+MidAmerica Nazarene University,Olathe,KS,"$18,374",56%,"$42,900",http://www.mnu.edu
+Friends University,Wichita,KS,"$18,348",38%,"$41,800",http://www.friends.edu
+Ottawa University-Ottawa,Ottawa,KS,"$20,410",39%,"$41,500",http://www.ottawa.edu
+Hesston College,Hesston,KS,"$19,902",52%,"$41,000",http://www.hesston.edu
+Bethel College-North Newton,North Newton,KS,"$22,038",59%,"$40,800",http://www.bethelks.edu
+Tabor College,Hillsboro,KS,"$18,827",45%,"$40,800",http://tabor.edu/
+Wichita State University,Wichita,KS,"$17,640",44%,"$40,400",http://www.wichita.edu
+Kansas Wesleyan University,Salina,KS,"$22,098",38%,"$40,300",http://www.kwu.edu
+Washburn University,Topeka,KS,"$11,455",35%,"$40,300",http://www.washburn.edu
+Bethany College,Lindsborg,KS,"$24,173",43%,"$40,200",http://www.bethanylb.edu
+Benedictine College,Atchison,KS,"$24,057",66%,"$40,100",http://www.benedictine.edu
+North Central Kansas Technical College,Beloit,KS,"$12,251",72%,"$39,600",http://www.ncktc.edu
+Manhattan Area Technical College,Manhattan,KS,"$12,411",45%,"$39,400",http://www.manhattantech.edu
+Pittsburg State University,Pittsburg,KS,"$13,446",48%,"$39,400",http://www.pittstate.edu
+McPherson College,McPherson,KS,"$17,754",49%,"$39,300",http://www.mcpherson.edu
+Thomas More College,Crestview Hills,KY,"$18,816",49%,"$49,400",http://www.thomasmore.edu
+Bellarmine University,Louisville,KY,"$23,878",65%,"$45,700",http://www.bellarmine.edu
+Centre College,Danville,KY,"$22,338",86%,"$45,500",http://www.centre.edu
+Spalding University,Louisville,KY,"$21,436",46%,"$45,100",https://www.spalding.edu
+University of Kentucky,Lexington,KY,"$17,617",63%,"$45,100",http://www.uky.edu
+Transylvania University,Lexington,KY,"$22,826",74%,"$44,100",http://www.transy.edu
+Georgetown College,Georgetown,KY,"$19,953",57%,"$43,000",http://www.georgetowncollege.edu
+Galen College of Nursing-Louisville,Louisville,KY,"$24,831",69%,"$42,000",http://www.galencollege.edu/louisville
+University of Louisville,Louisville,KY,"$15,968",53%,"$41,800",http://www.louisville.edu
+Brescia University,Owensboro,KY,"$12,088",29%,"$40,100",http://www.brescia.edu
+Northern Kentucky University,Highland Heights,KY,"$8,446",39%,"$37,500",http://www.nku.edu
+Murray State University,Murray,KY,"$10,322",49%,"$37,100",http://www.murraystate.edu
+Kentucky Wesleyan College,Owensboro,KY,"$12,147",39%,"$36,700",https://kwc.edu/
+Eastern Kentucky University,Richmond,KY,"$11,150",41%,"$36,100",http://www.eku.edu
+University of the Cumberlands,Williamsburg,KY,"$17,901",40%,"$35,100",http://www.ucumberlands.edu
+Asbury University,Wilmore,KY,"$27,061",63%,"$34,900",http://www.asbury.edu
+Western Kentucky University,Bowling Green,KY,"$11,578",44%,"$34,700",http://www.wku.edu
+Sullivan College of Technology and Design,Louisville,KY,"$23,007",40%,"$34,600",http://www.sctd.edu
+Kentucky Christian University,Grayson,KY,"$20,257",36%,"$34,600",http://www.kcu.edu
+Midway University,Midway,KY,"$20,903",62%,"$34,500",http://www.midway.edu
+Tulane University of Louisiana,New Orleans,LA,"$32,946",83%,"$61,700",http://tulane.edu
+ITI Technical College,Baton Rouge,LA,"$19,543",59%,"$51,300",http://www.iticollege.edu
+Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,"$13,624",68%,"$50,100",http://www.lsu.edu
+Xavier University of Louisiana,New Orleans,LA,"$18,347",41%,"$49,800",http://www.xula.edu
+Franciscan Missionaries of Our Lady University,Baton Rouge,LA,"$18,876",40%,"$47,200",http://www.ololcollege.edu
+Loyola University New Orleans,New Orleans,LA,"$22,485",61%,"$47,100",http://www.loyno.edu
+Centenary College of Louisiana,Shreveport,LA,"$22,932",51%,"$44,900",http://www.centenary.edu
+Louisiana College,Pineville,LA,"$13,665",34%,"$42,800",http://www.lacollege.edu
+Louisiana Tech University,Ruston,LA,"$9,561",52%,"$41,500",http://www.latech.edu
+University of Louisiana at Lafayette,Lafayette,LA,"$10,617",45%,"$39,900",http://www.louisiana.edu
+University of Holy Cross,New Orleans,LA,"$14,117",33%,"$39,500",http://uhcno.edu
+McNeese State University,Lake Charles,LA,"$10,722",42%,"$38,200",http://www.mcneese.edu
+Herzing University-Kenner,Kenner,LA,"$22,009",34%,"$37,800",http://www.herzing.edu
+University of New Orleans,New Orleans,LA,"$10,191",36%,"$37,800",http://www.uno.edu
+University of Louisiana at Monroe,Monroe,LA,"$8,846",42%,"$37,500",http://www.ulm.edu
+Nicholls State University,Thibodaux,LA,"$11,106",45%,"$37,500",http://www.nicholls.edu
+Southeastern Louisiana University,Hammond,LA,"$11,222",39%,"$37,200",http://www.southeastern.edu
+Louisiana State University-Shreveport,Shreveport,LA,"$9,158",36%,"$35,700",http://www.lsus.edu/
+Dillard University,New Orleans,LA,"$18,481",39%,"$35,400",http://www.dillard.edu
+Southern University and A & M College,Baton Rouge,LA,"$13,118",32%,"$34,700",http://www.subr.edu
+Maine Maritime Academy,Castine,ME,"$21,440",60%,"$95,600",http://mainemaritime.edu
+Bowdoin College,Brunswick,ME,"$20,695",94%,"$65,500",http://www.bowdoin.edu/
+Bates College,Lewiston,ME,"$25,100",88%,"$59,200",http://www.bates.edu/
+Colby College,Waterville,ME,"$25,848",91%,"$58,100",http://www.colby.edu
+University of New England,Biddeford,ME,"$32,229",61%,"$46,300",https://www.une.edu/
+Saint Joseph's College of Maine,Standish,ME,"$24,992",56%,"$43,400",http://www.sjcme.edu
+University of Maine,Orono,ME,"$15,895",57%,"$42,500",http://www.umaine.edu/
+University of Southern Maine,Portland,ME,"$14,994",34%,"$38,700",http://www.usm.maine.edu
+Thomas College,Waterville,ME,"$20,557",45%,"$38,100",http://www.thomas.edu
+University of Maine at Farmington,Farmington,ME,"$14,523",57%,"$36,000",http://www.umf.maine.edu
+Unity College,Unity,ME,"$24,848",56%,"$34,100",https://www.unity.edu
+Southern Maine Community College,South Portland,ME,"$11,405",17%,"$33,900",http://www.smccME.edu
+Kaplan University-Maine Campus,S Portland,ME,"$17,098",28%,"$33,900",https://www.kaplanuniversity.edu
+University of Maine at Fort Kent,Fort Kent,ME,"$13,612",37%,"$33,400",http://www.umfk.maine.edu
+University of Maine at Presque Isle,Presque Isle,ME,"$10,172",42%,"$32,400",http://www.umpi.edu/
+Eastern Maine Community College,Bangor,ME,"$9,419",27%,"$32,400",http://www.emcc.edu
+Central Maine Community College,Auburn,ME,"$8,929",27%,"$32,100",http://www.cmcc.edu
+Northern Maine Community College,Presque Isle,ME,"$10,423",35%,"$30,300",http://www.nmcc.edu
+Kennebec Valley Community College,Fairfield,ME,"$7,320",31%,"$29,000",http://www.kvcc.me.edu
+Washington County Community College,Calais,ME,"$4,268",39%,"$27,900",http://www.wccc.me.edu
+Johns Hopkins University,Baltimore,MD,"$31,954",93%,"$73,200",http://www.jhu.edu
+Loyola University Maryland,Baltimore,MD,"$32,920",82%,"$68,100",http://www.loyola.edu
+Capitol Technology University,Laurel,MD,"$20,174",42%,"$63,900",http://www.captechu.edu
+University of Maryland-College Park,College Park,MD,"$16,928",86%,"$62,900",http://www.umd.edu
+University of Baltimore,Baltimore,MD,"$16,300",34%,"$58,000",http://www.ubalt.edu
+University of Maryland-Baltimore County,Baltimore,MD,"$19,937",64%,"$55,000",http://umbc.edu
+Mount St. Mary's University,Emmitsburg,MD,"$29,855",70%,"$52,600",http://www.msmary.edu
+St Mary's College of Maryland,St. Mary's City,MD,"$19,715",76%,"$52,200",http://www.smcm.edu
+Notre Dame of Maryland University,Baltimore,MD,"$19,003",52%,"$51,800",http://www.ndm.edu
+Washington College,Chestertown,MD,"$31,101",74%,"$51,400",http://www.washcoll.edu
+University of Maryland-University College,Adelphi,MD,"$12,149",9%,"$51,200",http://www.umuc.edu
+Towson University,Towson,MD,"$17,628",70%,"$50,800",http://www.towson.edu
+Salisbury University,Salisbury,MD,"$18,887",68%,"$50,500",http://www.salisbury.edu
+McDaniel College,Westminster,MD,"$21,342",69%,"$49,700",http://www.mcdaniel.edu
+Stevenson University,Stevenson,MD,"$27,470",53%,"$49,600",http://www.stevenson.edu
+Goucher College,Baltimore,MD,"$28,106",65%,"$48,900",http://www.goucher.edu
+Strayer University-Maryland,Suitland,MD,"$26,210",17%,"$45,900",http://www.strayer.edu/maryland/prince-georges
+Bowie State University,Bowie,MD,"$14,826",39%,"$45,800",http://www.bowiestate.edu
+Hood College,Frederick,MD,"$23,279",64%,"$45,300",http://www.hood.edu
+Frostburg State University,Frostburg,MD,"$18,052",49%,"$44,600",http://www.frostburg.edu
+MCPHS University,Boston,MA,"$36,473",75%,"$116,000",http://www.mcphs.edu
+Massachusetts Institute of Technology,Cambridge,MA,"$22,549",92%,"$104,700",http://web.mit.edu/
+Babson College,Wellesley,MA,"$34,019",90%,"$96,100",http://www.babson.edu
+Harvard University,Cambridge,MA,"$14,981",97%,"$89,700",http://www.harvard.edu
+Bentley University,Waltham,MA,"$34,207",89%,"$86,900",http://www.bentley.edu
+Massachusetts Maritime Academy,Buzzards Bay,MA,"$16,960",74%,"$86,600",http://www.maritime.edu
+Worcester Polytechnic Institute,Worcester,MA,"$38,137",86%,"$84,900",https://www.wpi.edu/
+Tufts University,Medford,MA,"$31,298",93%,"$75,800",http://www.tufts.edu
+Boston College,Chestnut Hill,MA,"$34,356",92%,"$72,500",http://www.bc.edu
+College of the Holy Cross,Worcester,MA,"$33,158",92%,"$71,000",http://www.holycross.edu
+Northeastern University,Boston,MA,"$28,565",85%,"$67,400",http://www.northeastern.edu
+Boston University,Boston,MA,"$34,914",86%,"$65,300",http://www.bu.edu
+Wentworth Institute of Technology,Boston,MA,"$41,855",66%,"$65,100",https://WIT.EDU
+Amherst College,Amherst,MA,"$22,036",94%,"$65,000",http://www.amherst.edu
+Wellesley College,Wellesley,MA,"$21,506",92%,"$60,800",http://www.wellesley.edu
+Stonehill College,Easton,MA,"$30,035",83%,"$60,800",http://www.stonehill.edu
+Williams College,Williamstown,MA,"$21,102",95%,"$59,000",https://www.williams.edu
+Brandeis University,Waltham,MA,"$31,078",88%,"$57,900",http://www.brandeis.edu/
+Merrimack College,North Andover,MA,"$32,742",72%,"$57,100",http://www.merrimack.edu
+Simmons College,Boston,MA,"$27,575",74%,"$55,800",http://www.simmons.edu
+Kettering University,Flint,MI,"$35,447",53%,"$80,500",http://www.kettering.edu/
+Michigan Technological University,Houghton,MI,"$14,638",66%,"$66,400",http://www.mtu.edu
+University of Michigan-Ann Arbor,Ann Arbor,MI,"$14,897",91%,"$63,400",http://www.umich.edu
+Lawrence Technological University,Southfield,MI,"$28,184",55%,"$55,300",http://www.ltu.edu
+Cleary University,Howell,MI,"$12,246",40%,"$53,600",http://www.cleary.edu
+Michigan State University,East Lansing,MI,"$17,120",78%,"$53,600",https://www.msu.edu
+Northwood University,Midland,MI,"$22,995",57%,"$48,900",http://www.northwood.edu
+Kalamazoo College,Kalamazoo,MI,"$22,796",82%,"$48,700",http://www.kzoo.edu
+University of Michigan-Dearborn,Dearborn,MI,"$12,200",53%,"$48,600",http://umdearborn.edu/
+Albion College,Albion,MI,"$18,307",68%,"$47,400",http://www.albion.edu
+University of Phoenix-Michigan,Southfield,MI,"$18,397",9%,"$47,100",http://www.phoenix.edu
+University of Detroit Mercy,Detroit,MI,"$21,872",65%,"$47,100",http://www.udmercy.edu
+Hope College,Holland,MI,"$25,938",78%,"$46,200",http://www.hope.edu
+Andrews University,Berrien Springs,MI,"$20,484",58%,"$45,200",http://www.andrews.edu
+Western Michigan University,Kalamazoo,MI,"$16,824",54%,"$45,000",https://wmich.edu/
+Calvin College,Grand Rapids,MI,"$24,115",75%,"$44,800",http://www.calvin.edu
+Ferris State University,Big Rapids,MI,"$13,136",42%,"$44,500",http://www.ferris.edu/
+College for Creative Studies,Detroit,MI,"$33,976",54%,"$44,100",http://www.collegeforcreativestudies.edu
+Oakland University,Rochester Hills,MI,"$12,415",45%,"$43,100",http://www.oakland.edu
+Grand Valley State University,Allendale,MI,"$16,496",66%,"$42,800",http://www.gvsu.edu
+Saint Johns University,Collegeville,MN,"$22,755",78%,"$60,600",http://www.csbsju.edu
+University of St Thomas,Saint Paul,MN,"$29,713",76%,"$56,800",http://www.stthomas.edu
+Carleton College,Northfield,MN,"$26,745",93%,"$54,200",http://www.carleton.edu
+Dunwoody College of Technology,Minneapolis,MN,"$25,783",50%,"$52,800",http://www.dunwoody.edu
+College of Saint Benedict,Saint Joseph,MN,"$24,143",85%,"$52,600",http://www.csbsju.edu
+University of Minnesota-Rochester,Rochester,MN,"$17,238",55%,"$51,900",https://r.umn.edu
+University of Minnesota-Twin Cities,Minneapolis,MN,"$16,993",78%,"$51,900",https://twin-cities.umn.edu
+Gustavus Adolphus College,Saint Peter,MN,"$20,801",82%,"$51,700",http://WWW.GUSTAVUS.EDU
+The College of Saint Scholastica,Duluth,MN,"$21,995",68%,"$51,400",http://www.css.edu
+St Olaf College,Northfield,MN,"$24,042",88%,"$50,400",http://wp.stolaf.edu
+Concordia University-Saint Paul,Saint Paul,MN,"$19,628",49%,"$49,200",http://www.csp.edu
+Hamline University,Saint Paul,MN,"$21,332",61%,"$49,200",http://www.hamline.edu
+St Catherine University,Saint Paul,MN,"$21,529",58%,"$49,200",https://www.stkate.edu
+Metropolitan State University,Saint Paul,MN,"$15,350",34%,"$48,200",http://www.metrostate.edu
+Saint Mary's University of Minnesota,Winona,MN,"$19,940",61%,"$47,800",http://www.smumn.edu
+Macalester College,Saint Paul,MN,"$27,004",89%,"$47,600",http://www.macalester.edu
+Bethel University,Saint Paul,MN,"$25,446",75%,"$47,300",https://www.bethel.edu
+University of Minnesota-Duluth,Duluth,MN,"$16,850",60%,"$47,200",http://www.d.umn.edu/
+Augsburg University,Minneapolis,MN,"$22,232",57%,"$46,800",http://www.augsburg.edu
+Minnesota State University-Mankato,Mankato,MN,"$15,455",50%,"$44,900",http://www.mnsu.edu
+Millsaps College,Jackson,MS,"$22,065",68%,"$48,100",http://www.millsaps.edu
+University of Mississippi,University,MS,"$14,494",60%,"$42,700",http://www.olemiss.edu
+Mississippi State University,Mississippi State,MS,"$15,656",60%,"$40,200",http://www.msstate.edu
+Mississippi College,Clinton,MS,"$16,660",57%,"$38,300",http://www.mc.edu
+Belhaven University,Jackson,MS,"$18,256",41%,"$37,300",http://www.belhaven.edu
+University of Southern Mississippi,Hattiesburg,MS,"$12,570",47%,"$36,400",http://www.usm.edu
+William Carey University,Hattiesburg,MS,"$17,348",50%,"$34,700",http://www.wmcarey.edu
+Mississippi University for Women,Columbus,MS,"$10,224",47%,"$34,100",http://www.muw.edu
+Delta State University,Cleveland,MS,"$12,717",34%,"$33,700",http://www.deltastate.edu
+Blue Mountain College,Blue Mountain,MS,"$11,355",53%,"$31,400",http://www.bmc.edu
+Alcorn State University,Alcorn State,MS,"$14,771",32%,"$31,100",http://www.alcorn.edu
+Jackson State University,Jackson,MS,"$13,646",39%,"$30,000",http://www.jsums.edu
+Northeast Mississippi Community College,Booneville,MS,"$9,900",31%,"$29,200",http://www.nemcc.edu
+Northwest Mississippi Community College,Senatobia,MS,"$5,196",22%,"$28,800",http://www.northwestms.edu
+East Central Community College,Decatur,MS,"$4,926",35%,"$28,700",http://www.eccc.edu
+Holmes Community College,Goodman,MS,"$5,018",29%,"$28,300",http://www.holmescc.edu
+Mississippi Gulf Coast Community College,Perkinston,MS,"$6,959",30%,"$27,900",https://www.mgccc.edu
+Pearl River Community College,Poplarville,MS,"$1,410",29%,"$27,600",http://www.prcc.edu
+Itawamba Community College,Fulton,MS,"$5,330",38%,"$27,500",http://www.iccms.edu
+Tougaloo College,Tougaloo,MS,"$14,113",42%,"$27,500",http://www.tougaloo.edu
+Missouri University of Science and Technology,Rolla,MO,"$14,303",65%,"$71,200",http://www.mst.edu/
+Washington University in St Louis,Saint Louis,MO,"$29,957",93%,"$70,100",http://www.wustl.edu
+Chamberlain University-Missouri,St. Louis,MO,"$24,522",29%,"$58,400",http://www.chamberlain.edu
+Saint Louis University,Saint Louis,MO,"$29,157",73%,"$56,500",http://www.slu.edu
+Rockhurst University,Kansas City,MO,"$23,826",71%,"$50,800",http://www.rockhurst.edu
+Ranken Technical College,Saint Louis,MO,"$15,479",59%,"$48,400",http://www.ranken.edu
+University of Missouri-Columbia,Columbia,MO,"$17,157",69%,"$48,300",http://missouri.edu/
+Maryville University of Saint Louis,Saint Louis,MO,"$25,596",73%,"$47,200",http://www.maryville.edu
+Park University,Parkville,MO,"$16,351",40%,"$45,900",http://www.park.edu
+William Jewell College,Liberty,MO,"$22,542",63%,"$45,700",http://www.jewell.edu
+University of Missouri-Kansas City,Kansas City,MO,"$15,764",49%,"$45,700",http://www.umkc.edu/
+Truman State University,Kirksville,MO,"$12,362",72%,"$44,500",http://www.truman.edu
+DeVry University-Missouri,Kansas City,MO,"$23,065",33%,"$44,100",https://www.devry.edu
+Avila University,Kansas City,MO,"$20,765",49%,"$44,100",https://www.Avila.edu
+University of Missouri-St Louis,Saint Louis,MO,"$11,006",47%,"$42,900",http://www.umsl.edu/
+Westminster College,Fulton,MO,"$19,940",65%,"$42,700",http://WWW.WESTMINSTER-MO.EDU
+Webster University,Saint Louis,MO,"$29,710",61%,"$42,300",http://www.webster.edu
+Cox College,Springfield,MO,"$21,390",96%,"$42,100",http://www.coxcollege.edu
+Lindenwood University,Saint Charles,MO,"$22,131",49%,"$41,300",http://www.lindenwood.edu
+Fontbonne University,Saint Louis,MO,"$25,125",53%,"$40,800",https://www.fontbonne.edu
+Carroll College,Helena,MT,"$24,702",65%,"$45,900",http://www.carroll.edu
+Montana State University,Bozeman,MT,"$17,050",53%,"$43,200",http://www.montana.edu/
+Highlands College of Montana Tech,Butte,MT,"$9,828",19%,"$41,700",http://www.mtech.edu/
+Montana Tech of the University of Montana,Butte,MT,"$12,875",42%,"$41,700",http://www.mtech.edu
+Rocky Mountain College,Billings,MT,"$19,014",46%,"$38,800",http://rocky.edu
+Montana State University-Northern,Havre,MT,"$12,590",26%,"$37,100",http://www.msun.edu
+Helena College University of Montana,Helena,MT,"$11,568",26%,"$36,900",http://www.helenacollege.edu
+Miles Community College,Miles City,MT,"$7,670",41%,"$36,600",http://www.milescc.edu/
+The University of Montana,Missoula,MT,"$13,978",45%,"$35,500",http://www.umt.edu
+Montana State University-Billings,Billings,MT,"$13,827",25%,"$34,600",http://www.msubillings.edu
+University of Providence,Great Falls,MT,"$20,479",35%,"$32,500",http://www.uprovidence.edu
+Great Falls College Montana State University,Great Falls,MT,"$9,680",17%,"$31,100",http://www.gfcmsu.edu
+The University of Montana-Western,Dillon,MT,"$9,963",42%,"$30,400",http://w.umwestern.edu/
+Dawson Community College,Glendive,MT,"$9,281",40%,"$29,600",http://www.dawson.edu
+Flathead Valley Community College,Kalispell,MT,"$10,061",26%,"$28,200",http://www.fvcc.edu
+Salish Kootenai College,Pablo,MT,"$8,686",48%,"$25,400",http://www.skc.edu
+Aaniiih Nakoda College,Harlem,MT,"$8,227",32%,"$20,300",http://www.ancollege.edu
+Little Big Horn College,Crow Agency,MT,"$6,957",21%,"$18,900",http://www.lbhc.edu/
+Chief Dull Knife College,Lame Deer,MT,"$6,098",24%,"$17,600",http://cdkc.edu
+Fort Peck Community College,Poplar,MT,"$3,449",8%,"$16,500",http://www.fpcc.edu
+Creighton University,Omaha,NE,"$28,254",79%,"$59,700",https://www.creighton.edu
+Bellevue University,Bellevue,NE,"$10,623",34%,"$53,600",http://www.bellevue.edu
+Bryan College of Health Sciences,Lincoln,NE,"$24,331",76%,"$51,300",http://www.bryanhealthcollege.edu/bcohs/
+Clarkson College,Omaha,NE,"$20,825",55%,"$49,300",http://www.clarksoncollege.edu/
+Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,"$18,826",67%,"$48,700",http://www.methodistcollege.edu
+University of Nebraska-Lincoln,Lincoln,NE,"$17,311",67%,"$46,400",http://www.unl.edu/
+Nebraska College of Technical Agriculture,Curtis,NE,"$11,369",49%,"$46,400",http://ncta.unl.edu
+Nebraska Wesleyan University,Lincoln,NE,"$22,719",66%,"$46,000",http://www.nebrwesleyan.edu
+Hastings College,Hastings,NE,"$18,952",58%,"$44,400",http://www.hastings.edu
+Doane University-Arts & Sciences,Crete,NE,"$22,724",60%,"$44,300",http://www.doane.edu
+University of Nebraska at Omaha,Omaha,NE,"$12,899",46%,"$44,200",https://www.unomaha.edu
+University of Nebraska at Kearney,Kearney,NE,"$15,768",56%,"$41,300",http://www.unk.edu
+College of Saint Mary,Omaha,NE,"$19,584",44%,"$41,200",http://WWW.CSM.EDU
+Union College,Lincoln,NE,"$20,535",49%,"$40,800",http://www.ucollege.edu
+Concordia University-Nebraska,Seward,NE,"$19,450",63%,"$40,100",http://www.cune.edu
+Midland University,Fremont,NE,"$23,518",45%,"$39,900",http://www.midlandu.edu
+Chadron State College,Chadron,NE,"$13,267",43%,"$38,200",http://www.csc.edu
+Peru State College,Peru,NE,"$12,681",36%,"$37,500",http://www.peru.edu
+Southeast Community College Area,Lincoln,NE,"$9,116",29%,"$37,000",http://www.southeast.edu
+Wayne State College,Wayne,NE,"$12,722",49%,"$36,100",https://www.wsc.edu/
+University of Phoenix-Nevada,Las Vegas,NV,"$18,367",18%,"$47,100",http://www.phoenix.edu
+University of Nevada-Reno,Reno,NV,"$14,164",56%,"$47,000",http://www.unr.edu/
+University of Nevada-Las Vegas,Las Vegas,NV,"$10,726",41%,"$45,000",http://www.unlv.edu/
+DeVry University-Nevada,Henderson,NV,"$31,081",19%,"$44,100",https://www.devry.edu
+Sierra Nevada College,Incline Village,NV,"$26,861",38%,"$42,100",http://www.sierranevada.edu
+Truckee Meadows Community College,Reno,NV,"$8,416",30%,"$33,900",http://www.tmcc.edu
+College of Southern Nevada,Las Vegas,NV,"$7,028",7%,"$32,300",http://www.csn.edu
+Northwest Career College,Las Vegas,NV,"$14,583",76%,"$31,800",http://northwestcareercollege.edu
+Great Basin College,Elko,NV,"$9,021",22%,"$31,300",http://www.gbcnv.edu
+Western Nevada College,Carson City,NV,"$9,733",20%,"$30,500",http://www.wnc.edu
+The Art Institute of Las Vegas,Henderson,NV,"$20,191",22%,"$29,400",http://www.artinstitutes.edu/las-vegas
+Pima Medical Institute-Las Vegas,Las Vegas,NV,"$19,809",59%,"$28,800",http://pmi.edu
+Altierus Career College-Henderson,Henderson,NV,"$20,380",49%,"$27,900",https://www.altierus.org/campus/henderson
+Carrington College-Reno,Reno,NV,"$31,944",84%,"$27,400",http://www.carrington.edu
+Career College of Northern Nevada,Sparks,NV,"$19,340",61%,"$27,200",http://www.ccnn.edu
+Brightwood College-Las Vegas,Las Vegas,NV,"$19,862",64%,"$26,700",http://www.brightwood.edu
+Carrington College-Las Vegas,Las Vegas,NV,"$17,796",66%,"$25,400",http://www.carrington.edu
+Dartmouth College,Hanover,NH,"$27,080",95%,"$75,500",http://www.dartmouth.edu
+Saint Anselm College,Manchester,NH,"$31,998",72%,"$58,300",http://www.anselm.edu
+University of New Hampshire-Main Campus,Durham,NH,"$24,879",78%,"$51,400",http://www.unh.edu
+University of New Hampshire at Manchester,Manchester,NH,"$16,868",48%,"$51,400",http://manchester.unh.edu
+Rivier University,Nashua,NH,"$25,001",51%,"$45,400",http://www.rivier.edu
+Southern New Hampshire University,Manchester,NH,"$35,845",58%,"$45,400",http://www.snhu.edu
+Colby-Sawyer College,New London,NH,"$25,851",55%,"$43,600",http://www.colby-sawyer.edu
+Keene State College,Keene,NH,"$19,196",63%,"$42,400",http://www.keene.edu
+Plymouth State University,Plymouth,NH,"$20,461",56%,"$41,700",http://www.plymouth.edu
+Franklin Pierce University,Rindge,NH,"$26,795",43%,"$39,700",http://www.franklinpierce.edu
+NHTI-Concord's Community College,Concord,NH,"$17,109",22%,"$38,200",http://www.nhti.edu
+New England College,Henniker,NH,"$27,322",36%,"$37,900",http://www.nec.edu/
+Manchester Community College,Manchester,NH,"$15,523",22%,"$36,800",http://www.mccnh.edu
+Nashua Community College,Nashua,NH,"$13,501",24%,"$36,600",http://nashuacc.edu
+Granite State College,Concord,NH,"$13,656",15%,"$35,400",http://www.granite.edu
+White Mountains Community College,Berlin,NH,"$15,135",42%,"$35,100",http://www.wmcc.edu
+New Hampshire Institute of Art,Manchester,NH,"$22,656",47%,"$25,200",http://www.nhia.edu
+Stevens Institute of Technology,Hoboken,NJ,"$35,309",82%,"$89,200",http://www.stevens.edu
+Princeton University,Princeton,NJ,"$10,256",97%,"$74,700",http://www.princeton.edu
+New Jersey Institute of Technology,Newark,NJ,"$18,544",61%,"$68,500",http://www.njit.edu/
+The College of New Jersey,Ewing,NJ,"$26,581",86%,"$58,500",http://www.tcnj.edu
+Rutgers University-Camden,Camden,NJ,"$15,705",58%,"$57,900",http://www.camden.rutgers.edu/
+Rutgers University-New Brunswick,New Brunswick,NJ,"$20,166",80%,"$57,900",http://newbrunswick.rutgers.edu/
+Rutgers University-Newark,Newark,NJ,"$12,360",67%,"$57,900",http://www.newark.rutgers.edu/
+Seton Hall University,South Orange,NJ,"$27,213",63%,"$57,200",http://www.shu.edu/
+Ramapo College of New Jersey,Mahwah,NJ,"$21,022",73%,"$53,200",http://www.ramapo.edu
+Drew University,Madison,NJ,"$22,400",64%,"$52,700",http://www.drew.edu
+Rider University,Lawrenceville,NJ,"$27,514",65%,"$50,600",http://www.rider.edu
+Monmouth University,West Long Branch,NJ,"$29,086",69%,"$50,500",http://www.monmouth.edu
+Rowan University,Glassboro,NJ,"$22,224",69%,"$50,000",http://www.rowan.edu
+Montclair State University,Montclair,NJ,"$21,727",65%,"$49,600",http://www.montclair.edu
+Fairleigh Dickinson University-Florham Campus,Madison,NJ,"$24,253",53%,"$48,100",http://www.fdu.edu
+Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,"$17,752",43%,"$48,100",http://www.fdu.edu
+Stockton University,Galloway,NJ,"$19,233",72%,"$47,500",http://www.stockton.edu
+Felician University,Lodi,NJ,"$16,861",41%,"$47,300",http://www.felician.edu
+University of Phoenix-New Jersey,Jersey City,NJ,"$18,943",11%,"$47,100",http://www.phoenix.edu
+William Paterson University of New Jersey,Wayne,NJ,"$17,138",50%,"$46,600",http://www.wpunj.edu
+New Mexico Institute of Mining and Technology,Socorro,NM,"$12,880",49%,"$50,000",http://www.nmt.edu
+University of Phoenix-New Mexico,Albuquerque,NM,"$18,535",20%,"$47,100",http://www.phoenix.edu
+New Mexico Military Institute,Roswell,NM,"$2,563",33%,"$39,700",http://www.nmmi.edu
+University of New Mexico-Taos Campus,Ranchos de Taos,NM,"$8,430",10%,"$36,400",http://taos.unm.edu/index.html
+University of New Mexico-Main Campus,Albuquerque,NM,"$12,827",46%,"$36,400",http://www.unm.edu
+University of New Mexico-Gallup Campus,Gallup,NM,"$7,834",8%,"$36,400",http://www.gallup.unm.edu
+University of New Mexico-Valencia County Campus,Los Lunas,NM,"$6,941",9%,"$36,400",http://valencia.unm.edu/
+University of New Mexico-Los Alamos Campus,Los Alamos,NM,"$8,053",8%,"$36,400",http://losalamos.unm.edu
+New Mexico Highlands University,Las Vegas,NM,"$7,853",20%,"$36,300",http://www.nmhu.edu
+University of the Southwest,Hobbs,NM,"$19,725",11%,"$36,200",http://www.usw.edu
+New Mexico State University-Grants,Grants,NM,"$6,088",14%,"$34,600",http://grants.nmsu.edu/
+New Mexico State University-Alamogordo,Alamogordo,NM,"$6,806",9%,"$34,600",http://nmsua.edu
+New Mexico State University-Main Campus,Las Cruces,NM,"$9,571",44%,"$34,600",http://www.nmsu.edu/
+New Mexico State University-Carlsbad,Carlsbad,NM,"$4,971",11%,"$34,600",http://carlsbad.nmsu.edu
+New Mexico State University-Dona Ana,Las Cruces,NM,"$5,397",12%,"$34,600",http://dacc.nmsu.edu/
+St. John's College,Santa Fe,NM,"$24,056",47%,"$33,500",http://www.sjc.edu
+Santa Fe Community College,Santa Fe,NM,"$9,415",17%,"$31,400",https://www.sfcc.edu
+Western New Mexico University,Silver City,NM,"$10,942",20%,"$30,900",http://www.wnmu.edu
+San Juan College,Farmington,NM,"$4,813",16%,"$30,700",http://www.sanjuancollege.edu
+Southwest University of Visual Arts-Albuquerque,Albuquerque,NM,"$27,552",88%,"$30,200",http://www.suva.edu
+Albany College of Pharmacy and Health Sciences,Albany,NY,"$29,502",70%,"$124,700",http://www.acphs.edu
+United States Merchant Marine Academy,Kings Point,NY,"$6,866",73%,"$88,100",http://WWW.USMMA.EDU
+St Paul's School of Nursing-Staten Island,Staten Island,NY,"$29,880",47%,"$84,400",http://www.stpaulsschoolofnursing.edu/
+Columbia University in the City of New York,New York,NY,"$22,001",95%,"$83,300",http://www.columbia.edu
+SUNY Maritime College,Throggs Neck,NY,"$18,248",56%,"$82,800",http://www.sunymaritime.edu
+Rensselaer Polytechnic Institute,Troy,NY,"$33,629",82%,"$82,000",http://www.rpi.edu
+St Paul's School of Nursing-Queens,Rego Park,NY,"$24,487",41%,"$81,300",https://www.stpaulsschoolofnursing.edu
+Cornell University,Ithaca,NY,"$30,498",94%,"$77,200",http://www.cornell.edu
+Clarkson University,Potsdam,NY,"$30,662",72%,"$72,000",http://www.clarkson.edu
+Union College,Schenectady,NY,"$30,932",88%,"$65,400",http://www.union.edu/
+Manhattan College,Riverdale,NY,"$31,167",72%,"$65,000",http://www.manhattan.edu
+Cooper Union for the Advancement of Science and Art,New York,NY,"$16,548",84%,"$64,900",http://www.cooper.edu
+Colgate University,Hamilton,NY,"$23,947",90%,"$63,600",http://www.colgate.edu
+Rochester Institute of Technology,Rochester,NY,"$27,348",67%,"$62,400",http://www.rit.edu/
+Syracuse University,Syracuse,NY,"$30,722",82%,"$62,100",https://www.syracuse.edu
+New York University,New York,NY,"$37,362",84%,"$61,900",http://www.nyu.edu
+Binghamton University,Vestal,NY,"$17,870",82%,"$61,600",http://www.binghamton.edu
+University of Rochester,Rochester,NY,"$26,604",87%,"$61,200",http://www.rochester.edu
+Molloy College,Rockville Centre,NY,"$28,126",74%,"$60,500",http://www.molloy.edu
+St Joseph's College of Nursing at St Joseph's Hospital Health Center,Syracuse,NY,"$35,356",71%,"$60,300",http://www.sjhcon.edu
+Duke University,Durham,NC,"$33,665",95%,"$84,400",http://WWW.DUKE.EDU
+Wake Forest University,Winston-Salem,NC,"$28,082",88%,"$63,800",http://www.wfu.edu
+Davidson College,Davidson,NC,"$23,926",94%,"$58,900",http://www.davidson.edu/
+University of North Carolina at Chapel Hill,Chapel Hill,NC,"$13,210",91%,"$55,600",http://www.unc.edu
+North Carolina State University at Raleigh,Raleigh,NC,"$14,682",76%,"$52,500",http://www.ncsu.edu
+Elon University,Elon,NC,"$35,619",83%,"$51,900",http://www.elon.edu
+Cabarrus College of Health Sciences,Concord,NC,"$13,616",47%,"$48,600",http://www.carolinashealthcare.org/cabarrus-college-of-health-sciences
+University of Phoenix-North Carolina,Charlotte,NC,"$17,811",13%,"$47,100",http://www.phoenix.edu
+Campbell University,Buies Creek,NC,"$25,649",55%,"$45,900",http://www.campbell.edu
+DeVry University-North Carolina,Charlotte,NC,"$26,044",13%,"$44,100",https://www.devry.edu
+University of North Carolina at Charlotte,Charlotte,NC,"$14,665",55%,"$44,000",http://www.uncc.edu
+Wingate University,Wingate,NC,"$17,326",54%,"$43,200",https://www.wingate.edu
+Queens University of Charlotte,Charlotte,NC,"$26,444",53%,"$42,200",http://www.queens.edu
+University of North Carolina Wilmington,Wilmington,NC,"$16,793",72%,"$41,600",http://www.uncw.edu
+East Carolina University,Greenville,NC,"$15,203",61%,"$40,500",http://www.ecu.edu
+Meredith College,Raleigh,NC,"$24,593",62%,"$39,500",http://www.meredith.edu
+University of Mount Olive,Mount Olive,NC,"$14,750",44%,"$39,500",https://www.umo.edu
+Catawba College,Salisbury,NC,"$19,046",50%,"$39,400",http://www.catawba.edu
+Methodist University,Fayetteville,NC,"$30,574",38%,"$39,300",http://www.methodist.edu
+Pfeiffer University,Misenheimer,NC,"$17,619",41%,"$39,200",http://www.pfeiffer.edu
+University of North Dakota,Grand Forks,ND,"$15,045",55%,"$48,700",http://und.edu
+North Dakota State University-Main Campus,Fargo,ND,"$15,394",55%,"$48,200",https://www.ndsu.edu
+University of Mary,Bismarck,ND,"$16,636",56%,"$48,000",http://www.umary.edu/
+Bismarck State College,Bismarck,ND,"$9,480",45%,"$44,800",https://bismarckstate.edu/
+University of Jamestown,Jamestown,ND,"$16,848",47%,"$43,800",http://www.uj.edu
+North Dakota State College of Science,Wahpeton,ND,"$11,238",47%,"$43,400",https://www.ndscs.edu
+Dickinson State University,Dickinson,ND,"$11,398",33%,"$41,700",http://www.dickinsonstate.edu
+Minot State University,Minot,ND,"$10,817",43%,"$41,200",http://www.minotstateu.edu
+Williston State College,Williston,ND,"$11,096",35%,"$39,800",http://www.willistonstate.edu
+Valley City State University,Valley City,ND,"$11,920",37%,"$39,300",http://www.vcsu.edu
+Mayville State University,Mayville,ND,"$12,317",28%,"$39,300",http://www.mayvillestate.edu
+Dakota College at Bottineau,Bottineau,ND,"$9,614",30%,"$37,900",http://www.dakotacollege.edu
+Lake Region State College,Devils Lake,ND,"$9,300",42%,"$35,800",http://www.lrsc.edu
+Rasmussen College-North Dakota,Fargo,ND,"$19,041",15%,"$32,600",http://rasmussen.edu
+Nueta Hidatsa Sahnish College,New Town,ND,"$4,543",5%,"$28,600",http://www.nhsc.edu
+Trinity Bible College and Graduate School,Ellendale,ND,"$20,329",41%,"$27,000",http://trinitybiblecollege.edu/
+Turtle Mountain Community College,Belcourt,ND,"$8,748",22%,"$23,200",http://www.tm.edu
+Sitting Bull College,Fort Yates,ND,"$2,998",12%,"$19,100",http://www.sittingbull.edu
+United Tribes Technical College,Bismarck,ND,"$6,255",39%,"$17,500",http://www.uttc.edu/
+Cankdeska Cikana Community College,Fort Totten,ND,"$8,032",9%,"$16,400",http://www.littlehoop.edu
+Case Western Reserve University,Cleveland,OH,"$29,989",81%,"$74,600",http://www.case.edu
+Ohio Northern University,Ada,OH,"$24,468",73%,"$63,500",http://www.onu.edu/
+Aultman College of Nursing and Health Sciences,Canton,OH,"$19,639",64%,"$60,500",http://www.aultmancollege.edu
+Chamberlain University-Ohio,Columbus,OH,"$26,486",41%,"$58,400",http://www.chamberlain.edu
+Mount Carmel College of Nursing,Columbus,OH,"$17,583",72%,"$57,700",http://www.mccn.edu
+The Christ College of Nursing and Health Sciences,Cincinnati,OH,"$18,954",73%,"$56,200",http://www.thechristcollege.edu
+University of Dayton,Dayton,OH,"$28,866",77%,"$55,100",https://www.udayton.edu
+Kettering College,Kettering,OH,"$21,004",41%,"$54,500",http://kc.edu
+John Carroll University,University Heights,OH,"$25,718",75%,"$53,800",http://sites.jcu.edu/
+Good Samaritan College of Nursing and Health Science,Cincinnati,OH,"$21,049",58%,"$52,600",http://www.GSCollege.edu
+Xavier University,Cincinnati,OH,"$27,391",73%,"$51,600",http://www.xavier.edu
+Mercy College of Ohio,Toledo,OH,"$19,820",60%,"$51,100",http://www.mercycollege.edu
+Denison University,Granville,OH,"$27,944",80%,"$48,800",https://www.denison.edu
+Kenyon College,Gambier,OH,"$28,678",89%,"$48,700",http://www.kenyon.edu/
+Franklin University,Columbus,OH,"$22,812",9%,"$48,500",http://www.franklin.edu
+Ursuline College,Pepper Pike,OH,"$17,128",48%,"$47,800",http://www.ursuline.edu
+Miami University-Middletown,Middletown,OH,"$11,624",19%,"$47,100",http://miamioh.edu/regionals/
+Miami University-Oxford,Oxford,OH,"$22,307",79%,"$47,100",http://miamioh.edu
+Miami University-Hamilton,Hamilton,OH,"$9,667",25%,"$47,100",http://miamioh.edu/regionals/
+The College of Wooster,Wooster,OH,"$25,385",79%,"$46,300",http://www.wooster.edu
+University of Oklahoma-Norman Campus,Norman,OK,"$17,288",67%,"$51,100",http://www.ou.edu
+Oklahoma Wesleyan University,Bartlesville,OK,"$24,315",45%,"$50,900",http://www.okwu.edu
+University of Tulsa,Tulsa,OK,"$23,392",71%,"$48,500",https://utulsa.edu
+Southern Nazarene University,Bethany,OK,"$9,053",40%,"$47,600",http://SNU.EDU
+Oklahoma State University-Main Campus,Stillwater,OK,"$13,538",62%,"$46,500",http://www.okstate.edu/
+Spartan College of Aeronautics and Technology,Tulsa,OK,"$24,294",54%,"$44,600",http://www.spartan.edu
+Oklahoma City University,Oklahoma City,OK,"$25,637",59%,"$42,800",http://www.okcu.edu
+Oklahoma Baptist University,Shawnee,OK,"$18,030",55%,"$40,500",https://www.okbu.edu
+Southwestern Oklahoma State University,Weatherford,OK,"$11,864",28%,"$39,300",http://www.swosu.edu
+School Name,City,State,"$XX,XXX",XX%,"$XX,XXX",
+Oklahoma Christian University,Edmond,OK,"$18,153",49%,"$38,500",http://www.oc.edu
+Mid-America Christian University,Oklahoma City,OK,"$21,062",36%,"$37,700",http://www.macu.edu
+Oral Roberts University,Tulsa,OK,"$21,001",57%,"$37,600",http://oru.edu
+Tulsa Welding School-Tulsa,Tulsa,OK,"$28,441",64%,"$37,500",https://www.weldingschool.com
+East Central University,Ada,OK,"$7,196",35%,"$36,800",https://www.ecok.edu
+Oklahoma Panhandle State University,Goodwell,OK,"$12,503",23%,"$36,700",http://www.opsu.edu
+Northwestern Oklahoma State University,Alva,OK,"$8,357",23%,"$36,400",http://www.nwosu.edu
+Southeastern Oklahoma State University,Durant,OK,"$9,025",27%,"$35,800",http://www.se.edu
+Northeastern State University,Tahlequah,OK,"$8,661",27%,"$35,800",https://www.nsuok.edu
+Oklahoma State University Institute of Technology,Okmulgee,OK,"$8,361",31%,"$35,300",http://www.osuit.edu/
+University of Portland,Portland,OR,"$31,063",80%,"$58,800",https://www1.up.edu
+Oregon Institute of Technology,Klamath Falls,OR,"$16,687",46%,"$56,600",http://www.oit.edu
+Linfield College-McMinnville Campus,McMinnville,OR,"$26,979",67%,"$55,200",http://www.linfield.edu
+Willamette University,Salem,OR,"$29,718",79%,"$51,100",http://www.willamette.edu
+Oregon State University,Corvallis,OR,"$20,581",64%,"$49,600",http://oregonstate.edu
+Pacific University,Forest Grove,OR,"$30,035",63%,"$46,600",http://www.pacificu.edu
+Lewis & Clark College,Portland,OR,"$31,865",76%,"$46,200",http://www.lclark.edu/
+George Fox University,Newberg,OR,"$27,281",66%,"$45,100",http://www.georgefox.edu
+University of Oregon,Eugene,OR,"$15,619",72%,"$44,800",http://www.uoregon.edu
+Portland State University,Portland,OR,"$15,762",45%,"$44,700",http://www.pdx.edu
+Concordia University-Portland,Portland,OR,"$21,918",46%,"$43,300",http://www.cu-portland.edu
+Northwest Christian University,Eugene,OR,"$19,377",52%,"$43,100",http://www.nwcu.edu/
+Reed College,Portland,OR,"$27,289",80%,"$42,200",http://www.reed.edu
+Eastern Oregon University,La Grande,OR,"$14,607",29%,"$41,200",http://www.eou.edu
+Warner Pacific College Adult Degree Program,Portland,OR,"$19,627",50%,"$41,000",http://www.warnerpacific.edu/admissions/adult-degree-program
+Warner Pacific College,Portland,OR,"$22,787",48%,"$41,000",http://www.warnerpacific.edu/
+Western Oregon University,Monmouth,OR,"$16,411",41%,"$39,700",http://www.wou.edu
+Southern Oregon University,Ashland,OR,"$8,195",38%,"$39,000",http://www.sou.edu
+Corban University,Salem,OR,"$21,944",59%,"$37,600",http://www.corban.edu
+Portland Community College,Portland,OR,"$7,948",16%,"$36,100",http://www.pcc.edu
+University of the Sciences,Philadelphia,PA,"$32,913",71%,"$91,600",http://www.usciences.edu
+University of Pennsylvania,Philadelphia,PA,"$23,281",95%,"$85,900",http://www.upenn.edu
+Carnegie Mellon University,Pittsburgh,PA,"$36,613",89%,"$83,600",http://www.cmu.edu/
+Lehigh University,Bethlehem,PA,"$32,501",88%,"$81,900",http://www.lehigh.edu
+Villanova University,Villanova,PA,"$38,229",90%,"$77,900",http://www.villanova.edu
+Bucknell University,Lewisburg,PA,"$34,502",89%,"$70,800",http://www.bucknell.edu
+Drexel University,Philadelphia,PA,"$36,050",69%,"$68,800",http://www.drexel.edu
+Lafayette College,Easton,PA,"$32,953",89%,"$68,600",https://www.lafayette.edu/
+Haverford College,Haverford,PA,"$20,894",90%,"$60,700",https://www.haverford.edu
+Saint Joseph's University,Philadelphia,PA,"$34,068",79%,"$59,600",http://www.sju.edu
+Muhlenberg College,Allentown,PA,"$30,987",84%,"$59,400",http://www.muhlenberg.edu
+Franklin and Marshall College,Lancaster,PA,"$28,326",87%,"$58,900",http://WWW.FANDM.EDU
+Duquesne University,Pittsburgh,PA,"$28,628",76%,"$58,500",http://www.duq.edu
+La Salle University,Philadelphia,PA,"$26,577",64%,"$58,000",http://www.lasalle.edu
+University of Scranton,Scranton,PA,"$32,499",80%,"$57,500",http://www.scranton.edu
+Dickinson College,Carlisle,PA,"$30,361",84%,"$57,400",http://www.dickinson.edu
+Pittsburgh Institute of Aeronautics,West Mifflin,PA,"$29,098",63%,"$57,200",http://www.pia.edu
+Swarthmore College,Swarthmore,PA,"$18,157",94%,"$56,700",http://www.swarthmore.edu
+Gettysburg College,Gettysburg,PA,"$26,986",85%,"$56,100",http://WWW.GETTYSBURG.EDU
+Ursinus College,Collegeville,PA,"$28,627",78%,"$55,200",http://www.ursinus.edu
+Bryant University,Smithfield,RI,"$36,199",78%,"$69,300",http://www.bryant.edu/
+Brown University,Providence,RI,"$28,629",96%,"$67,500",http://www.brown.edu
+Providence College,Providence,RI,"$37,476",84%,"$64,100",http://www.providence.edu
+Salve Regina University,Newport,RI,"$24,026",70%,"$53,500",http://www.salve.edu
+University of Rhode Island,Kingston,RI,"$19,216",63%,"$52,900",http://web.uri.edu/
+Rhode Island School of Design,Providence,RI,"$43,457",89%,"$51,100",http://www.risd.edu
+Roger Williams University,Bristol,RI,"$33,720",64%,"$50,500",https://www.rwu.edu
+New England Institute of Technology,East Greenwich,RI,"$29,230",49%,"$42,800",http://www.neit.edu
+Rhode Island College,Providence,RI,"$10,480",46%,"$41,400",http://www.ric.edu
+Johnson & Wales University-Providence,Providence,RI,"$27,524",60%,"$38,800",http://www.jwu.edu/campuses/providence/index.html
+Community College of Rhode Island,Warwick,RI,"$7,139",15%,"$30,500",http://www.ccri.edu
+Citadel Military College of South Carolina,Charleston,SC,"$18,430",68%,"$56,800",http://www.citadel.edu
+Clemson University,Clemson,SC,"$16,770",81%,"$52,400",http://www.clemson.edu
+Wofford College,Spartanburg,SC,"$24,083",80%,"$51,500",http://www.wofford.edu
+Furman,Greenville,SC,"$28,038",83%,"$51,200",http://www.furman.edu
+University of South Carolina-Lancaster,Lancaster,SC,"$7,537",17%,"$44,900",http://usclancaster.sc.edu/
+University of South Carolina-Columbia,Columbia,SC,"$19,095",73%,"$44,900",http://www.sc.edu/
+Presbyterian College,Clinton,SC,"$19,692",66%,"$44,500",https://www.presby.edu
+College of Charleston,Charleston,SC,"$17,894",69%,"$40,700",http://www.cofc.edu
+Southern Wesleyan University,Central,SC,"$15,085",55%,"$39,200",http://www.swu.edu
+Coastal Carolina University,Conway,SC,"$15,111",42%,"$38,500",http://www.coastal.edu
+Erskine College,Due West,SC,"$19,629",63%,"$37,400",http://www.erskine.edu
+Limestone College,Gaffney,SC,"$23,519",36%,"$37,400",http://www.limestone.edu
+University of South Carolina-Aiken,Aiken,SC,"$14,589",43%,"$37,100",http://web.usca.edu
+Charleston Southern University,Charleston,SC,"$16,267",38%,"$36,900",http://www.csuniv.edu
+University of South Carolina-Upstate,Spartanburg,SC,"$14,478",41%,"$36,900",http://www.uscupstate.edu
+Newberry College,Newberry,SC,"$19,838",41%,"$36,900",http://www.newberry.edu
+University of South Carolina-Beaufort,Bluffton,SC,"$14,636",24%,"$36,800",http://www.uscb.edu
+Winthrop University,Rock Hill,SC,"$16,939",57%,"$35,900",http://www.winthrop.edu
+Anderson University,Anderson,SC,"$19,870",51%,"$35,200",http://www.andersonuniversity.edu
+Columbia College,Columbia,SC,"$16,709",50%,"$34,600",http://www.columbiasc.edu/
+South Dakota School of Mines and Technology,Rapid City,SD,"$20,097",49%,"$56,500",http://www.sdsmt.edu
+South Dakota State University,Brookings,SD,"$21,070",54%,"$44,400",https://www.sdstate.edu/
+Augustana University,Sioux Falls,SD,"$19,293",73%,"$43,700",http://www.augie.edu
+University of South Dakota,Vermillion,SD,"$17,078",54%,"$42,000",http://WWW.USD.EDU
+University of Sioux Falls,Sioux Falls,SD,"$20,650",54%,"$40,100",http://www.usiouxfalls.edu/
+Mitchell Technical Institute,Mitchell,SD,"$11,908",70%,"$39,700",https://www.mitchelltech.edu
+Dakota State University,Madison,SD,"$15,803",39%,"$38,700",http://dsu.edu
+Southeast Technical Institute,Sioux Falls,SD,"$13,892",44%,"$38,200",http://www.southeasttech.edu
+Dakota Wesleyan University,Mitchell,SD,"$18,878",46%,"$37,200",http://www.dwu.edu
+Lake Area Technical Institute,Watertown,SD,"$12,441",76%,"$36,900",http://www.lakeareatech.edu
+Mount Marty College,Yankton,SD,"$20,813",47%,"$36,600",http://www.mtmc.edu
+Black Hills State University,Spearfish,SD,"$15,793",38%,"$35,900",http://www.bhsu.edu
+Northern State University,Aberdeen,SD,"$14,667",45%,"$35,300",http://www.northern.edu
+Presentation College,Aberdeen,SD,"$19,752",41%,"$34,700",http://www.presentation.edu
+National American University-Rapid City,Rapid City,SD,"$18,009",21%,"$34,500",http://www.national.edu/locations/campuses/rapid-city/
+National American University-Sioux Falls,Sioux Falls,SD,"$11,057",20%,"$34,500",http://www.national.edu/locations/campuses/sioux-falls/
+Western Dakota Technical Institute,Rapid City,SD,"$12,531",35%,"$33,800",https://www.wdt.edu
+Sisseton Wahpeton College,Sisseton,SD,"$6,939",9%,"$23,600",http://www.swc.tc
+Sinte Gleska University,Mission,SD,"$11,419",14%,"$18,400",http://www.sintegleska.edu
+Oglala Lakota College,Kyle,SD,"$1,152",12%,"$17,700",http://www.olc.edu
+Vanderbilt University,Nashville,TN,"$17,929",92%,"$69,000",http://www.vanderbilt.edu
+Baptist Memorial College of Health Sciences,Memphis,TN,"$9,592",65%,"$57,000",http://www.bchs.edu
+Rhodes College,Memphis,TN,"$26,905",81%,"$53,600",http://www.rhodes.edu
+Sewanee-The University of the South,Sewanee,TN,"$25,303",80%,"$45,500",http://www.sewanee.edu
+The University of Tennessee-Knoxville,Knoxville,TN,"$19,076",70%,"$45,100",http://www.utk.edu
+Christian Brothers University,Memphis,TN,"$10,332",52%,"$44,200",https://www.cbu.edu
+DeVry University-Tennessee,Nashville,TN,"$29,031",21%,"$44,100",https://www.devry.edu
+Belmont University,Nashville,TN,"$34,327",69%,"$44,100",http://www.belmont.edu
+King University,Bristol,TN,"$18,847",45%,"$43,500",http://www.king.edu
+Union University,Jackson,TN,"$25,437",66%,"$43,200",http://www.uu.edu
+Lipscomb University,Nashville,TN,"$22,895",56%,"$43,200",http://www.lipscomb.edu
+Bryan College-Dayton,Dayton,TN,"$15,858",57%,"$41,300",http://www.bryan.edu
+Trevecca Nazarene University,Nashville,TN,"$17,104",50%,"$40,500",http://www.trevecca.edu
+Tennessee Technological University,Cookeville,TN,"$14,233",52%,"$40,500",http://www.tntech.edu
+Maryville College,Maryville,TN,"$16,258",54%,"$39,000",http://www.maryvillecollege.edu
+John A Gupton College,Nashville,TN,"$5,433",45%,"$38,800",http://www.guptoncollege.edu
+Middle Tennessee State University,Murfreesboro,TN,"$12,173",43%,"$38,700",http://www.mtsu.edu
+Cumberland University,Lebanon,TN,"$19,783",49%,"$38,700",http://www.cumberland.edu
+Bethel University,McKenzie,TN,"$15,116",33%,"$38,600",http://www.bethelu.edu/
+Southern Adventist University,Collegedale,TN,"$20,680",59%,"$38,500",http://www.southern.edu
+Rice University,Houston,TX,"$19,232",92%,"$65,400",http://www.rice.edu
+Southern Methodist University,Dallas,TX,"$32,882",79%,"$60,700",http://www.smu.edu
+The University of Texas at Austin,Austin,TX,"$18,422",80%,"$58,200",http://www.utexas.edu
+Texas A & M University-College Station,College Station,TX,"$15,440",80%,"$58,000",http://www.tamu.edu
+Trinity University,San Antonio,TX,"$23,341",80%,"$54,900",https://new.trinity.edu/
+Southwestern University,Georgetown,TX,"$22,994",73%,"$54,000",http://www.southwestern.edu
+The University of Texas at Dallas,Richardson,TX,"$13,343",67%,"$53,100",http://www.utdallas.edu
+Texas Christian University,Fort Worth,TX,"$34,129",76%,"$52,800",http://www.tcu.edu/
+Baylor University,Waco,TX,"$33,477",72%,"$51,600",http://www.baylor.edu
+University of Houston,Houston,TX,"$15,399",51%,"$51,600",http://www.uh.edu/
+School of Automotive Machinists & Technology,Houston,TX,"$22,096",87%,"$51,400",http://samtech.edu
+Texas Tech University,Lubbock,TX,"$16,450",60%,"$51,400",http://www.ttu.edu
+University of St Thomas,Houston,TX,"$19,161",59%,"$49,600",http://www.stthom.edu
+The University of Texas at Arlington,Arlington,TX,"$13,844",47%,"$48,700",http://WWW.UTA.EDU
+LeTourneau University,Longview,TX,"$22,029",55%,"$48,200",http://www.letu.edu
+Austin College,Sherman,TX,"$22,235",73%,"$48,200",http://www.austincollege.edu
+University of Dallas,Irving,TX,"$22,632",69%,"$47,400",http://www.udallas.edu
+University of Phoenix-Texas,Houston,TX,"$17,361",16%,"$47,100",http://www.phoenix.edu
+St. Mary's University,San Antonio,TX,"$16,947",60%,"$46,600",http://www.stmarytx.edu/
+Saint Edward's University,Austin,TX,"$22,297",63%,"$46,500",https://www.stedwards.edu
+Neumont College of Computer Science,Salt Lake City,UT,"$25,160",55%,"$69,400",http://www.neumont.edu
+Brigham Young University-Provo,Provo,UT,"$12,795",82%,"$59,700",http://www.byu.edu
+University of Utah,Salt Lake City,UT,"$12,674",65%,"$53,000",http://www.utah.edu
+Westminster College,Salt Lake City,UT,"$23,792",62%,"$49,800",http://www.westminstercollege.edu
+University of Phoenix-Utah,Salt Lake City,UT,"$17,687",23%,"$47,100",http://www.phoenix.edu
+Weber State University,Ogden,UT,"$10,059",33%,"$44,500",http://www.weber.edu
+Utah Valley University,Orem,UT,"$8,199",31%,"$43,800",http://www.uvu.edu
+Utah State University,Logan,UT,"$12,849",48%,"$43,200",http://www.usu.edu
+Western Governors University,Salt Lake City,UT,"$10,957",16%,"$41,900",http://www.wgu.edu
+Southern Utah University,Cedar City,UT,"$13,858",47%,"$39,800",https://www.suu.edu/
+Salt Lake Community College,Salt Lake City,UT,"$8,690",19%,"$37,600",http://www.slcc.edu
+LDS Business College,Salt Lake City,UT,"$7,936",36%,"$36,000",http://www.ldsbc.edu
+Dixie State University,Saint George,UT,"$13,501",34%,"$35,400",http://dixie.edu/
+Snow College,Ephraim,UT,"$8,985",42%,"$31,700",https://www.snow.edu
+Independence University,Salt Lake City,UT,"$27,176",50%,"$28,800",http://www.independence.edu
+Stevens-Henager College,Logan,UT,"$23,756",23%,"$28,800",http://www.stevenshenager.edu/
+Eagle Gate College-Layton,Layton,UT,"$18,499",58%,"$28,800",http://www.eaglegatecollege.edu
+Stevens-Henager College,West Haven,UT,"$26,001",26%,"$28,800",http://www.stevenshenager.edu
+Stevens-Henager College,Murray,UT,"$26,633",19%,"$28,800",http://www.stevenshenager.edu
+Eagle Gate College-Murray,Murray,UT,"$19,832",56%,"$28,800",http://EAGLEGATECOLLEGE.EDU
+Middlebury College,Middlebury,VT,"$22,775",94%,"$58,200",http://www.middlebury.edu
+Norwich University,Northfield,VT,"$26,854",57%,"$53,700",http://www.norwich.edu
+Saint Michael's College,Colchester,VT,"$30,019",77%,"$50,800",http://www.smcvt.edu
+University of Vermont,Burlington,VT,"$17,831",76%,"$47,300",http://www.uvm.edu
+Champlain College,Burlington,VT,"$36,409",60%,"$45,400",http://www.champlain.edu
+Vermont Technical College,Randolph,VT,"$19,630",48%,"$45,000",http://www.vtc.edu/
+Castleton University,Castleton,VT,"$16,750",49%,"$37,900",http://www.castleton.edu
+New England Culinary Institute,Montpelier,VT,"$19,511",38%,"$37,600",http://www.neci.edu
+College of St Joseph,Rutland,VT,"$16,799",31%,"$36,700",http://www.csj.edu
+Southern Vermont College,Bennington,VT,"$23,096",29%,"$34,200",https://svc.edu
+Lyndon State College,Lyndonville,VT,"$15,615",37%,"$33,400",http://WWW.LYNDONSTATE.EDU
+Johnson State College,Johnson,VT,"$15,064",35%,"$33,200",http://www.jsc.edu
+Green Mountain College,Poultney,VT,"$19,437",45%,"$30,300",http://www.greenmtn.edu
+Bennington College,Bennington,VT,"$32,451",69%,"$29,500",http://www.bennington.edu
+Community College of Vermont,Montpelier,VT,"$10,929",15%,"$28,800",http://www.ccv.edu
+Marlboro College,Marlboro,VT,"$27,276",62%,"$27,600",http://www.marlboro.edu
+Goddard College,Plainfield,VT,"$21,256",39%,"$25,400",http://www.goddard.edu
+Landmark College,Putney,VT,"$36,144",30%,"$23,600",http://www.landmark.edu
+Washington and Lee University,Lexington,VA,"$26,659",91%,"$76,100",http://www.wlu.edu/
+Virginia Military Institute,Lexington,VA,"$18,785",76%,"$65,700",http://www.vmi.edu
+University of Richmond,University of Richmond,VA,"$24,699",88%,"$64,500",http://www.richmond.edu
+Virginia Polytechnic Institute and State University,Blacksburg,VA,"$19,413",84%,"$62,500",http://WWW.VT.EDU
+University of Virginia-Main Campus,Charlottesville,VA,"$19,177",94%,"$61,200",http://www.virginia.edu
+George Mason University,Fairfax,VA,"$19,479",70%,"$59,900",https://www2.gmu.edu/
+College of William and Mary,Williamsburg,VA,"$19,089",91%,"$58,500",http://www.wm.edu
+James Madison University,Harrisonburg,VA,"$20,036",82%,"$56,600",http://www.jmu.edu/
+Jefferson College of Health Sciences,Roanoke,VA,"$23,686",49%,"$54,000",http://www.jchs.edu
+Marymount University,Arlington,VA,"$24,259",51%,"$53,600",https://www.marymount.edu
+Hampden-Sydney College,Hampden-Sydney,VA,"$30,674",65%,"$52,200",http://www.hsc.edu
+University of Mary Washington,Fredericksburg,VA,"$21,569",71%,"$51,400",http://www.umw.edu
+Randolph-Macon College,Ashland,VA,"$24,858",59%,"$49,100",http://www.rmc.edu
+Christopher Newport University,Newport News,VA,"$22,965",72%,"$46,900",http://cnu.edu/
+Strayer University-Virginia,Arlington,VA,"$25,998",24%,"$45,900",http://www.strayer.edu/virginia/arlington
+Shenandoah University,Winchester,VA,"$27,823",56%,"$45,800",http://www.su.edu
+Hampton University,Hampton,VA,"$34,173",60%,"$44,700",http://www.hamptonu.edu
+Roanoke College,Salem,VA,"$28,096",65%,"$44,700",http://www.roanoke.edu
+DeVry University-Virginia,Arlington,VA,"$20,004",25%,"$44,100",https://www.devry.edu
+Virginia Commonwealth University,Richmond,VA,"$21,136",62%,"$44,000",http://www.vcu.edu/
+DigiPen Institute of Technology,Redmond,WA,"$37,761",45%,"$80,200",http://www.digipen.edu
+University of Washington-Seattle Campus,Seattle,WA,"$12,957",84%,"$57,700",http://www.washington.edu
+University of Washington-Bothell Campus,Bothell,WA,"$11,121",68%,"$57,700",http://www.uwb.edu
+University of Washington-Tacoma Campus,Tacoma,WA,"$8,829",61%,"$57,700",http://www.tacoma.uw.edu/
+Seattle University,Seattle,WA,"$33,170",76%,"$56,500",http://www.seattleu.edu
+Gonzaga University,Spokane,WA,"$39,831",83%,"$56,100",http://www.gonzaga.edu
+Perry Technical Institute,Yakima,WA,"$21,393",79%,"$54,300",http://www.perrytech.edu/
+University of Puget Sound,Tacoma,WA,"$37,324",79%,"$52,700",http://www.pugetsound.edu
+Whitman College,Walla Walla,WA,"$33,482",88%,"$51,300",http://www.whitman.edu
+Washington State University,Pullman,WA,"$16,278",65%,"$50,600",http://wsu.edu/
+Pacific Lutheran University,Tacoma,WA,"$24,136",69%,"$49,400",http://www.plu.edu
+Seattle Pacific University,Seattle,WA,"$28,105",71%,"$49,100",http://www.spu.edu
+Saint Martin's University,Lacey,WA,"$20,795",53%,"$47,800",https://www.stmartin.edu
+Central Washington University,Ellensburg,WA,"$14,132",52%,"$46,500",http://www.cwu.edu
+Walla Walla University,College Place,WA,"$21,729",53%,"$46,400",http://www.wallawalla.edu
+Western Washington University,Bellingham,WA,"$15,845",70%,"$45,800",http://www.wwu.edu
+Bellingham Technical College,Bellingham,WA,"$6,763",42%,"$43,600",http://www.btc.edu
+Bellevue College,Bellevue,WA,"$8,126",25%,"$43,500",https://bellevuecollege.edu
+Eastern Washington University,Cheney,WA,"$13,706",46%,"$43,100",http://www.ewu.edu
+Whitworth University,Spokane,WA,"$26,394",74%,"$42,100",http://www.whitworth.edu
+American Public University System,Charles Town,WV,"$11,262",37%,"$62,400",http://www.apus.edu
+Wheeling Jesuit University,Wheeling,WV,"$18,343",56%,"$46,200",http://www.wju.edu
+West Virginia University,Morgantown,WV,"$10,997",57%,"$45,800",http://www.wvu.edu
+Potomac State College of West Virginia University,Keyser,WV,"$8,249",17%,"$45,800",http://www.potomacstatecollege.edu
+West Virginia Wesleyan College,Buckhannon,WV,"$18,420",50%,"$43,600",http://www.wvwc.edu
+University of Charleston,Charleston,WV,"$17,170",43%,"$40,800",http://www.ucwv.edu
+Alderson Broaddus University,Philippi,WV,"$17,902",43%,"$40,400",http://www.ab.edu/
+Bethany College,Bethany,WV,"$22,552",41%,"$40,400",http://www.bethanywv.edu
+Shepherd University,Shepherdstown,WV,"$10,939",47%,"$39,700",http://www.shepherd.edu/
+Davis & Elkins College,Elkins,WV,"$17,814",44%,"$37,400",http://www.dewv.edu
+Ohio Valley University,Vienna,WV,"$16,714",37%,"$37,200",https://www.ovu.edu
+West Liberty University,West Liberty,WV,"$13,962",46%,"$36,400",http://www.westliberty.edu/
+Marshall University,Huntington,WV,"$9,465",45%,"$35,600",http://www.marshall.edu/
+Glenville State College,Glenville,WV,"$13,355",32%,"$33,800",http://www.glenville.edu
+Fairmont State University,Fairmont,WV,"$10,220",30%,"$33,000",https://www.fairmontstate.edu/
+Concord University,Athens,WV,"$7,743",36%,"$32,300",http://www.concord.edu
+West Virginia State University,Institute,WV,"$9,285",28%,"$29,800",http://www.wvstateu.edu
+Salem International University,Salem,WV,"$23,026",14%,"$28,900",http://www.salemu.edu
+West Virginia University at Parkersburg,Parkersburg,WV,"$8,440",36%,"$28,000",http://www.wvup.edu
+Appalachian Bible College,Mount Hope,WV,"$14,715",49%,"$26,700",http://www.abc.edu
+Milwaukee School of Engineering,Milwaukee,WI,"$22,095",64%,"$71,300",http://www.msoe.edu
+Marquette University,Milwaukee,WI,"$30,382",80%,"$62,600",http://www.marquette.edu
+University of Wisconsin-Madison,Madison,WI,"$19,320",85%,"$56,200",http://www.wisc.edu
+Cardinal Stritch University,Milwaukee,WI,"$17,738",41%,"$48,500",http://www.stritch.edu
+University of Wisconsin-La Crosse,La Crosse,WI,"$15,093",68%,"$48,000",http://www.uwlax.edu
+University of Wisconsin-Platteville,Platteville,WI,"$15,468",54%,"$47,300",http://www.uwplatt.edu
+Saint Norbert College,De Pere,WI,"$24,898",73%,"$46,400",http://www.snc.edu
+University of Wisconsin-Eau Claire,Eau Claire,WI,"$16,021",66%,"$46,200",http://www.uwec.edu
+Ripon College,Ripon,WI,"$20,041",68%,"$45,500",http://www.ripon.edu
+University of Wisconsin-Stout,Menomonie,WI,"$15,929",56%,"$45,100",http://www.uwstout.edu
+Carthage College,Kenosha,WI,"$33,435",61%,"$44,700",http://www.carthage.edu
+Carroll University,Waukesha,WI,"$23,579",61%,"$44,200",http://www.carrollu.edu
+University of Wisconsin-Milwaukee,Milwaukee,WI,"$17,940",40%,"$44,200",http://uwm.edu
+Lawrence University,Appleton,WI,"$25,507",78%,"$44,100",http://www.lawrence.edu
+Edgewood College,Madison,WI,"$23,839",61%,"$43,300",http://www.edgewood.edu
+Viterbo University,La Crosse,WI,"$18,954",49%,"$43,200",http://www.viterbo.edu
+Concordia University-Wisconsin,Mequon,WI,"$25,324",57%,"$42,800",http://www.cuw.edu
+Lakeland University,Plymouth,WI,"$21,229",53%,"$42,800",http://www.lakeland.edu
+University of Wisconsin-Oshkosh,Oshkosh,WI,"$15,192",52%,"$42,700",http://www.uwosh.edu
+University of Wisconsin-Whitewater,Whitewater,WI,"$15,069",59%,"$42,600",http://www.uww.edu
+University of Wyoming,Laramie,WY,"$12,578",55%,"$47,300",http://www.uwyo.edu
+Wyotech-Laramie,Laramie,WY,"$25,569",78%,"$45,600",https://www.wyotech.edu/campus/laramie
+Casper College,Casper,WY,"$6,285",32%,"$35,500",http://www.caspercollege.edu
+Sheridan College,Sheridan,WY,"$8,374",35%,"$35,400",http://www.sheridan.edu
+Laramie County Community College,Cheyenne,WY,"$6,452",23%,"$34,600",http://www.lccc.wy.edu
+Western Wyoming Community College,Rock Springs,WY,"$6,307",38%,"$31,800",https://www.westernwyoming.edu
+Northwest College,Powell,WY,"$5,846",33%,"$30,000",http://www.nwc.edu
+Eastern Wyoming College,Torrington,WY,"$5,800",39%,"$28,500",http://ewc.wy.edu
+Central Wyoming College,Riverton,WY,"$3,901",27%,"$28,400",http://www.cwc.edu/
